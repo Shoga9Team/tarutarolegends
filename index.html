@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="apple-mobile-web-app-capable" content="yes" />
-    <meta name="viewport" content="fullscreen, width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     <link rel="manifest" href="manifest.json">
     <link rel="shortcut icon" href="favicon.gif" type="image/x-icon" />
     <link rel="stylesheet" href="Resources/Text/font/stylesheet.css" type="text/css" charset="utf-8" />
@@ -84,15 +84,29 @@
     </script>
     <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
     <script>
-      var OneSignal = window.OneSignal || [];
-      OneSignal.push(function() {
-        OneSignal.init({
-          appId: "636f039c-2eae-4cbb-af86-eefea7617ba3",
-          notifyButton: {
-            enable: true,
-          },
+        var OneSignal = window.OneSignal || [];
+        OneSignal.push(function() {
+            OneSignal.init({
+                appId: "636f039c-2eae-4cbb-af86-eefea7617ba3",
+                autoResubscribe: true,
+                notifyButton: {
+                    enable: false,
+                },
+            });
+            OneSignal.showNativePrompt();
         });
-      });
+        function tagUserWith(key, value) {
+            OneSignal.push(function () {
+                OneSignal.isPushNotificationsEnabled(function (isEnabled) {
+                    if (isEnabled) {
+                        OneSignal.sendTag(key, value, function (tagsSent) {
+                            // Callback called when tags have finished sending
+                            console.log('tags sent: ', tagsSent);
+                        });
+                    }
+                });
+            });
+        }
     </script>
 </head>
 <body id="body" style="font-family: 'cp_revengeregular', 'titanbold', sans-serif;">
@@ -174,7 +188,7 @@
 			console.warn('SST:Service Worker is not supported in this browser.');
 		}
     </script>
-    <script type="text/javascript" src="JavaScript/Game.js?20190608"></script>
+    <script src="JavaScript/Game.js?20190608"></script>
     <a id="copywright" href="https://shoga9team.com" target="_blank" style="display: none;">2019 ShogaIX Productions. All rights reserved.</a>
 </body>
 </html>
