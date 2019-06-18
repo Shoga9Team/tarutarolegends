@@ -1,0 +1,12 @@
+	{ 
+		
+		"green": [
+			
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   2, 0  ,  963, 0  ,  965, 6  ,  0, 6  ]
+				}  
+		]
+		
+	}

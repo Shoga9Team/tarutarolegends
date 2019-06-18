@@ -1,0 +1,32 @@
+{
+    "fly": {
+        "frames": [20, 21, 22],
+        "frameRate": 18,
+        "loop": true,
+        "stopFrame": 10
+    },
+	"takeOff": {
+        "frames": [10, 11, 12, 13],
+        "frameRate": 20,
+        "loop": false,
+        "stopFrame": 10
+    },
+    "touchDown": {
+        "frames": [13, 12, 11, 10],
+        "frameRate": 20,
+        "loop": false,
+        "stopFrame": 10
+    },
+    "walk": {
+        "frames": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
+        "frameRate": 30,
+        "loop": true,
+        "stopFrame": 0
+    },
+    "stop": {
+        "frames": [0],
+        "frameRate": 0,
+        "loop": false,
+        "stopFrame": 0
+    }
+}

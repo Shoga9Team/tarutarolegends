@@ -1,0 +1,22 @@
+{
+    "bat_passive": {
+        "start": 0.019,
+        "duration": 1.766,
+        "volume": 1.0
+    },
+    "bat_attack": {
+        "start": 1.889,
+        "duration": 1.008,
+        "volume": 1.0
+    },
+    "bat_damage": {
+        "start": 2.949,
+        "duration": 0.712,
+        "volume": 1.0
+    },
+	"bat_dead": {
+        "start": 3.661,
+        "duration": 2.008,
+        "volume": 1.0
+    }
+}

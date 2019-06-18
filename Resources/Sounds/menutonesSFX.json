@@ -1,0 +1,17 @@
+{
+    "cursor_move": {
+        "start": 0.00,
+        "duration": 1.17,
+        "volume": 0.5
+    },
+    "select_submenu": {
+        "start": 1.32,
+        "duration": 1.32,
+        "volume": 1.0
+    },
+    "game_start": {
+        "start": 2.94,
+        "duration": 3.08,
+        "volume": 1.0
+    }
+}

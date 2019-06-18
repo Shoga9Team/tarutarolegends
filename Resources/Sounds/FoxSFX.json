@@ -1,0 +1,17 @@
+{
+    "fox_barrel": {
+        "start": 0.00,
+        "duration": 1.35,
+        "volume": 1.0
+    },
+    "fox_jump": {
+        "start": 2.005,
+        "duration": 0.270,
+        "volume": 1.0
+    },
+    "fox_possess": {
+        "start": 4.013,
+        "duration": 1.497,
+        "volume": 1.0
+    }
+}

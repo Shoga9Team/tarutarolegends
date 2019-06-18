@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 23.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 222 222.00001"
+   xml:space="preserve"
+   sodipodi:docname="iconBG.svg"
+   width="222"
+   height="222"
+   inkscape:version="0.92.4 (33fec40, 2019-01-16)"><metadata
+   id="metadata106"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs104" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview102"
+   showgrid="false"
+   inkscape:zoom="0.18941941"
+   inkscape:cx="137.515"
+   inkscape:cy="169.39001"
+   inkscape:window-x="10"
+   inkscape:window-y="34"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Layer_1" />
+<style
+   type="text/css"
+   id="style89">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#283D0D;}
+	.st2{fill:#8CC63F;}
+</style>
+<g
+   id="g99"
+   transform="translate(-717.73,-206.32)">
+	<g
+   id="g95">
+		<circle
+   class="st0"
+   cx="828.72998"
+   cy="317.32001"
+   r="104.99"
+   id="circle91"
+   style="fill:#ffffff" />
+		<path
+   class="st1"
+   d="m 828.73,428.32 c -61.21,0 -111,-49.79 -111,-111 0,-61.21 49.79,-111 111,-111 61.21,0 111,49.79 111,111 0,61.21 -49.79,111 -111,111 z m 0,-209.98 c -54.58,0 -98.98,44.4 -98.98,98.98 0,54.58 44.4,98.98 98.98,98.98 54.58,0 98.98,-44.4 98.98,-98.98 0,-54.58 -44.4,-98.98 -98.98,-98.98 z"
+   id="path93"
+   inkscape:connector-curvature="0"
+   style="fill:#283d0d" />
+	</g>
+	<path
+   class="st2"
+   d="m 828.73,230.51 c -47.94,0 -86.81,38.87 -86.81,86.81 0,47.94 38.87,86.81 86.81,86.81 47.94,0 86.81,-38.87 86.81,-86.81 0,-47.94 -38.86,-86.81 -86.81,-86.81 z"
+   id="path97"
+   inkscape:connector-curvature="0"
+   style="fill:#8cc63f" />
+</g>
+</svg>

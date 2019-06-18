@@ -1,0 +1,56 @@
+{
+    "meta": {
+        "generated": "1440156438650",
+        "version": "1.0",
+        "app": "gulp-phaser-tiled-pack",
+        "url": "https://github.com/englercj/gulp-phaser-tiled-pack"
+    },
+    "Test1": [
+        {
+            "type": "image",
+            "subtype": "tileset",
+            "key": "Test1_tileset_grass-tiles-2-small",
+            "name": "grass-tiles-2-small",
+            "url": "Resources/Tilemap/Tutorial/tileset/grass-tiles-2-small.png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "subtype": "tileset",
+            "key": "Test1_tileset_Tree1(background3)",
+            "name": "Tree1(background3)",
+            "url": "Resources/Tilemap/Test1/Tree1(background3).png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "subtype": "tileset",
+            "key": "Test1_tileset_Tree1(background3)_2",
+            "name": "Tree1(background3)_2",
+            "url": "Resources/Tilemap/Test1/Tree1(background3)_2.png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "subtype": "layer",
+            "key": "Test1_layer_tree",
+            "name": "tree",
+            "url": "Resources/Tilemap/Test1/Tree1(background3).png",
+            "overwrite": false
+        },
+        {
+            "type": "image",
+            "subtype": "layer",
+            "key": "Test1_layer_bush",
+            "name": "bush",
+            "url": "Resources/Tilemap/Test1/Bush1(background3).png",
+            "overwrite": false
+        },
+        {
+            "type": "tiledmap",
+            "key": "Test1_tiledmap",
+            "url": "Resources/Tilemap/Test1/Test1.json",
+            "format": "TILED_JSON"
+        }
+    ]
+}

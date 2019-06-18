@@ -1,0 +1,42 @@
+{
+    "passive_1": {
+        "start": 0.00,
+        "duration": 2.05,
+        "volume": 1.0
+    },
+    "passive_2": {
+        "start": 2.12,
+        "duration": 1.18,
+        "volume": 1.0
+    },
+    "attack": {
+        "start": 4.24,
+        "duration": 1.6,
+        "volume": 1.0
+    },
+     "screech_1": {
+        "start": 6.43,
+        "duration": 1.7,
+        "volume": 1.0
+    },
+    "screech_2": {
+        "start": 8.5,
+        "duration": 1.5,
+        "volume": 1.0
+    },
+    "damage": {
+        "start": 10.619,
+        "duration": 1.72,
+        "volume": 1.0
+    },
+    "death": {
+        "start": 13.27,
+        "duration": 2.23,
+        "volume": 1.0
+    },
+    "change_weapon": {
+        "start": 4.24,
+        "duration": 1.6,
+        "volume": 1.0
+    }
+}

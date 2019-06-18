@@ -1,0 +1,3 @@
+https://www.fontsquirrel.com/tools/webfont-generator
+
+found at: http://www.html5gamedevs.com/topic/2214-how-to-use-a-tffotf-font-with-phaser/

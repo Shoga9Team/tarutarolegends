@@ -1,0 +1,32 @@
+{
+    "appear": {
+        "frames": [0, 1, 2, 3, 4, 5],
+        "frameRate": 30,
+        "loop": false,
+        "stopFrame": 5
+    },
+    "disappear": {
+        "frames": [5, 4, 3, 2, 1, 0],
+        "frameRate": 30,
+        "loop": false,
+        "stopFrame": 0
+    },
+	"fly": {
+        "frames": [6, 7, 8, 9, 10, 11, 12, 13],
+        "frameRate": 25,
+        "loop": true,
+        "stopFrame": 6
+    },
+    "attack": {
+        "frames": [14, 15, 16, 17],
+        "frameRate": 15,
+        "loop": false,
+        "stopFrame": 14
+    },
+    "attacking": {
+        "frames": [16, 17],
+        "frameRate": 10,
+        "loop": true,
+        "stopFrame": 17
+    }
+}

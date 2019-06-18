@@ -1,0 +1,107 @@
+{
+    "axe_swing": {
+        "start": 0.00,
+        "duration": 0.370,
+        "volume": 1.0
+    },
+    "hammer_swing": {
+        "start": 0.500,
+        "duration": 0.480,
+        "volume": 1.0
+    },
+    "throw_weapon": {
+        "start": 1.00,
+        "duration": 1.8,
+        "volume": 1.0
+    },
+    "footstep": {
+        "start": 3.00,
+        "duration": 0.46,
+        "volume": 1.0
+    },
+    "jump": {
+        "start": 3.5,
+        "duration": 0.36,
+        "volume": 1.0
+    },
+    "double_jump": {
+        "start": 4.00,
+        "duration": 0.60,
+        "volume": 1.0
+    },
+    "damage": {
+        "start": 4.62,
+        "duration": 1.7,
+        "volume": 1.0
+    },
+    "stunned": {
+        "start": 6.50,
+        "duration": 0.98,
+        "volume": 1.0
+    },
+    "change_weapon": {
+        "start": 7.50,
+        "duration": 1.50,
+        "volume": 1.0
+    },
+    "barrel_transform": {
+        "start": 9.25,
+        "duration": 1.50,
+        "volume": 1.0
+    },
+    "barrel_thud": {
+        "start": 11.25,
+        "duration": 0.56,
+        "volume": 1.0
+    },
+    "exit_barrel": {
+        "start": 11.93,
+        "duration": 1.97,
+        "volume": 1.0
+    },
+    "axe_slash_vox_1": {
+        "start": 14.03,
+        "duration": 0.297,
+        "volume": 1.0
+    },
+    "axe_slash_vox_2": {
+        "start": 14.51,
+        "duration": 0.339,
+        "volume": 1.0
+    },
+    "axe_slash_vox_3": {
+        "start": 15.008,
+        "duration": 0.394,
+        "volume": 1.0
+    },
+    "hammer_slash_vox_1": {
+        "start": 16.002,
+        "duration": 0.498,
+        "volume": 1.0
+    },
+    "hammer_slash_vox_2": {
+        "start": 16.507,
+        "duration": 0.441,
+        "volume": 1.0
+    },
+    "throw_vox_1": {
+        "start": 18.006,
+        "duration": 0.800,
+        "volume": 1.0
+    },
+    "throw_vox_2": {
+        "start": 19.004,
+        "duration": 0.974,
+        "volume": 1.0
+    },
+    "sword_deflect": {
+        "start": 20.001,
+        "duration": 0.919,
+        "volume": 1.0
+    },
+    "taro_death": {
+        "start": 22.002,
+        "duration": 2.897,
+        "volume": 1.0
+    }
+}

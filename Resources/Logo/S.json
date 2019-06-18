@@ -1,0 +1,27 @@
+	{ 
+		
+		"S": [
+			
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   232, 175  ,  177, 139  ,  132, 22  ,  163, 0  ,  233, 22  ,  283, 144  ,  262, 166  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   163, 0  ,  132, 22  ,  144, 8  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   177, 139  ,  232, 175  ,  0, 176  ,  20, 140  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   233, 22  ,  163, 0  ,  847, 0  ,  855, 22  ]
+				}  
+		]
+		
+	}

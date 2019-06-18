@@ -2,11 +2,179 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Soon we will release the game!</title>
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="viewport" content="fullscreen, width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <link rel="manifest" href="manifest.json">
+    <link rel="shortcut icon" href="favicon.gif" type="image/x-icon" />
+    <link rel="stylesheet" href="Resources/Text/font/stylesheet.css" type="text/css" charset="utf-8" />
+    <link rel="stylesheet" href="Resources/Text/font/TitanBold/stylesheet.css" type="text/css" charset="utf-8" />
+    <title>TaruTaroLegends</title>
+    <style type="text/css">
+        body{
+            margin: 0;
+            background-color: black;
+            overflow-x: hidden;
+        }
+        #loading{
+            position: absolute;
+            top: 0;
+            text-align: center;
+            width: 100%;
+            height: 100%;
+        }
+        #loading img{
+            width: auto;
+            height: 100%;
+        }
+        #loading img#loadingsprite {
+            display: none;
+        }
+        #game {
+            width: 100%;
+            height: 100%;
+        }
+        #game.scrollable {
+            margin-bottom: 50px; /* needs this to enter minimal-ui, more: http://www.html5gamedevs.com/topic/31154-ios-soft-fullscreen-how/?tab=comments#comment-178833 */
+        }
+        #scroller {
+            text-align: center;
+            display: block;
+            position: absolute;
+            right: 0;
+            top: 0;
+            width: 11%;
+            height: 50%;
+            z-index: 100;
+            opacity: 0.6;
+        }
+        #scroller.hide {
+            display: none;
+            opacity: 0;
+            z-index: -1;
+        }
+        svg{
+            stroke: #fc0000;
+            width: 100%;
+            height: auto;
+        }
+        @keyframes changePadding {
+            from {
+                padding-top: 15%;
+                opacity: 0.6;
+            }
+            to {
+                padding-top: 0;
+                opacity: 1;
+            }
+        }
+        #scroller svg{
+            animation-duration: 1s;
+            animation-name: changePadding;
+            animation-iteration-count: infinite;
+            animation-direction: alternate;
+        }
+    </style>
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-76753121-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+    <script>
+      var OneSignal = window.OneSignal || [];
+      OneSignal.push(function() {
+        OneSignal.init({
+          appId: "636f039c-2eae-4cbb-af86-eefea7617ba3",
+          notifyButton: {
+            enable: true,
+          },
+        });
+      });
+    </script>
 </head>
-<body>
-    Please, be patient... tarutaro legends will soon bootup in here.
+<body id="body" style="font-family: 'cp_revengeregular', 'titanbold', sans-serif;">
+    <div id="loading">
+        <img id="loadingsprite0" src="Resources/Loading/loadingsprite0.jpg" />
+        <img id="loadingsprite" onload="document.getElementById('loadingsprite0').remove(); this.style.display = 'initial';" src="Resources/Loading/loadingsprite.gif" />
+    </div>
+    <div id="game"></div>
+    <!-- https://feathericons.com/ -->
+    <div id="scroller" class="hide">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+            stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevrons-up">
+            <polyline points="17 11 12 6 7 11"></polyline>
+            <polyline points="17 18 12 13 7 18"></polyline>
+        </svg>
+    </div>
+    <script>
+        // this script makes minimal-ui on smartphones possible.
+        // 1) have game be bigger than screen with margin
+        // 2) show icon above canvas which allows dragging
+        // 3) listen to onscroll and hope that on scroll ui gets minimal and then go to end of game canvas
+        const scroller = document.getElementById('scroller');
+        const game = document.getElementById('game');
+        const showScrollIcon = () => {
+            // if scrolled down that bottom of game is visible or if desktop
+            if(window.outerHeight < game.offsetHeight && window.scrollY === 0){
+                game.classList.add('scrollable');
+                scroller.classList.remove('hide');
+                const canvas = document.getElementsByTagName('canvas')[0];
+                if (canvas) scroller.style.marginTop = canvas.style.marginTop;
+                return true;
+            }
+            return false;
+        };
+        const hideScrollIcon = (isDesktop = false) => {
+            if (isDesktop) game.classList.remove('scrollable'); // dont remove the 50px margin on game div when mobile, otherwise minimal ui wont always work, just the first time
+            scroller.classList.add('hide');
+        };
+        let timer = null;
+        const scrollFunc = () => {
+            if (timer) clearTimeout(timer);
+            timer = setTimeout(() => {
+                hideScrollIcon();
+                game.scrollIntoView({ behavior: 'smooth', block: 'end', inline: 'center' });
+            }, 25);
+        };
+        const attachOnScroll = () => {
+            window.onorientationchange = showScrollIcon;
+            window.onscroll = scrollFunc;
+        };
+        const detachOnScroll = () => {
+            window.onorientationchange = null;
+            window.onscroll = null;
+        };
+        const indexLiveInit = (isDesktop = false, mobileSafari = false, sst_showScrollIcon = ()=>{}) => {
+            // desktop (has fullscreen), mobileSafari when horizontal (has fullscreen), PWA (has fullscreen)
+            if(isDesktop || mobileSafari || window.navigator.standalone || window.matchMedia('(display-mode: standalone)').matches || window.matchMedia('(display-mode: fullscreen)').matches){
+                hideScrollIcon(true);
+                detachOnScroll();
+                // scroll game into screen (in case ios has blacked out minimal-ui, bottom needs to be shown)
+                window.onorientationchange = scrollFunc;
+                scrollFunc();
+                // but chrome on IPhone also identifies as mobileSafari->so show ScrollIconHint
+                sst_showScrollIcon(mobileSafari);
+            }else{
+                showScrollIcon();
+                attachOnScroll();
+                sst_showScrollIcon(true);
+            }
+        };
+    </script>
+    <script>
+        if(navigator.serviceWorker){
+			navigator.serviceWorker
+                .register('./serviceworker.js', { scope: './' })
+                // .then(reg => console.log('Registration succeeded. Scope is ' + reg.scope)) //registration => registration.update())
+                .catch(e => console.log('Registration failed with ' + e));
+		}else{
+			console.warn('SST:Service Worker is not supported in this browser.');
+		}
+    </script>
+    <script type="text/javascript" src="JavaScript/Game.js?20190608"></script>
+    <a id="copywright" href="https://shoga9team.com" target="_blank" style="display: none;">2019 ShogaIX Productions. All rights reserved.</a>
 </body>
 </html>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+    <translation id="loading">
+        <en_us>Now Loading...</en_us>
+        <de_de>Am laden...</de_de>
+        <ja_jp>ローディング中...</ja_jp>
+    </translation>
+    <translation id="loadingSound">
+        <en_us>x of y sounds...</en_us>
+        <de_de>x von y Sounds...</de_de>
+        <ja_jp>x個のyサウンド...</ja_jp>
+    </translation>
+</translations>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+    <translation id="kills">
+        <en_us>Enemy Kills:</en_us>
+        <de_de>Gegener erledigte:</de_de>
+        <ja_jp>敵殺し:</ja_jp>
+    </translation>
+    <translation id="itemKills">
+        <en_us>Projectile Kills:</en_us>
+        <de_de>Erlegt mit Gegenstand:</de_de>
+        <ja_jp>発射の殺し:</ja_jp>
+    </translation>
+    <translation id="possesedKills">
+        <en_us>Possession Kills:</en_us>
+        <de_de>Besessene Erlegung:</de_de>
+        <ja_jp>敵を所有中の殺し:</ja_jp>
+    </translation>
+    <translation id="items">
+        <en_us>Items Collected:</en_us>
+        <de_de>Eingesammelte Gegenstände:</de_de>
+        <ja_jp>拾ったアイテム・武器:</ja_jp>
+    </translation>
+    <translation id="health">
+        <en_us>Remaining HP:</en_us>
+        <de_de>Verbleibende Gesundheit:</de_de>
+        <ja_jp>残りのHP:</ja_jp>
+    </translation>
+    <translation id="time">
+        <en_us>Time Completed:</en_us>
+        <de_de>Zeit abgelaufen:</de_de>
+        <ja_jp>仕上げた時間:</ja_jp>
+    </translation>
+    <translation id="grade">
+        <en_us>Overall Grade:</en_us>
+        <de_de>Resultat:</de_de>
+        <ja_jp>総合成績:</ja_jp>
+    </translation>
+    <translation id="visitUsDemo1">
+        <en_us>Thank you for playing Taru Taro Legends Demo.</en_us>
+        <de_de>Danke fürs spielen Taru Taro Legends Demo.</de_de>
+        <ja_jp>たるタロウ物語のデモをプレーして頂いて、ありがとうございます。</ja_jp>
+    </translation>
+    <translation id="visitUsDemo2">
+        <en_us>Follow us on Twitter @Shoga9Team and FaceBook (Shoga9Team).</en_us>
+        <de_de>Folge uns auf Twitter @Shoga9Team und FaceBook (Shoga9Team).</de_de>
+        <ja_jp>Twitterで@Shoga9TeamあるいはFaceBookで(Shoga9Team)フォローして下さい。</ja_jp>
+    </translation>
+    <translation id="visitUsDemo3">
+        <en_us>For more information. Please visit:</en_us>
+        <de_de>Für mehr infos, bitte besuche uns unter:</de_de>
+        <ja_jp>さらなる情報は下記のURLまでおこしください:</ja_jp>
+    </translation>
+    <translation id="visitUsDemo4">
+        <en_us>www.shoga9team.com</en_us>
+        <de_de>www.shoga9team.com</de_de>
+        <ja_jp>www.shoga9team.com</ja_jp>
+    </translation>
+</translations>

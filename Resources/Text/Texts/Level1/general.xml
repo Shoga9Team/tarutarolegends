@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+    <translation id="StateFade1">
+        <en_us>Kimagure</en_us>
+        <de_de>Kimagure</de_de>
+        <ja_jp>Kimagure</ja_jp>
+    </translation>
+    <translation id="StateFade2">
+        <en_us>Forest</en_us>
+        <de_de>Wald</de_de>
+        <ja_jp>Forest</ja_jp>
+    </translation>
+</translations>

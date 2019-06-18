@@ -1,0 +1,513 @@
+{
+
+	"walk": {
+
+        "frames": [0, 1, 2, 3, 4, 5],
+
+        "frameRate": 10,
+
+        "loop": true,
+
+        "stopFrame": 0
+
+    },
+
+    "walk_AxeItem": {
+
+        "frames": [100, 101, 102, 103, 104, 105],
+
+        "frameRate": 10,
+
+        "loop": true,
+
+        "stopFrame": 100
+
+    },
+
+    "walk_HammerItem": {
+
+        "frames": [180, 181, 182, 183, 184, 185],
+
+        "frameRate": 10,
+
+        "loop": true,
+
+        "stopFrame": 180
+
+    },
+
+    "running": {
+
+        "frames": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19],
+
+        "frameRate": 20,
+
+        "loop": true
+
+    },
+
+    "running_AxeItem": {
+
+        "frames": [70, 71, 72, 73, 74, 75, 76, 77, 78, 79],
+
+        "frameRate": 20,
+
+        "loop": true
+
+    },
+
+    "running_HammerItem": {
+
+        "frames": [150, 151, 152, 153, 154, 155, 156, 157, 158, 159],
+
+        "frameRate": 20,
+
+        "loop": true
+
+    },
+
+    "jump": {
+
+        "frames": [20, 21, 22, 23, 24, 25, 26, 0],
+
+        "frameRate": 4,
+
+        "loop": false,
+
+        "stopFrame": 21
+
+    },
+
+    "jump_AxeItem": {
+
+        "frames": [90, 91, 92, 93, 94, 95, 96, 100],
+
+        "frameRate": 4,
+
+        "loop": false,
+
+        "stopFrame": 91
+
+    },
+
+    "jump_HammerItem": {
+
+        "frames": [170, 171, 172, 173, 174, 175, 176, 180],
+
+        "frameRate": 4,
+
+        "loop": false,
+
+        "stopFrame": 171
+
+    },
+
+    "crouch": {
+
+        "frames": [30, 31, 32, 33, 34, 35],
+
+        "frameRate": 15,
+
+        "loop": true,
+
+        "stopFrame": 30
+
+    },
+
+    "crouch_AxeItem": {
+
+        "frames": [80, 81, 82, 83, 84, 85],
+
+        "frameRate": 15,
+
+        "loop": true,
+
+        "stopFrame": 80
+
+    },
+
+    "crouch_HammerItem": {
+
+        "frames": [160, 161, 162, 163, 164, 165],
+
+        "frameRate": 15,
+
+        "loop": true,
+
+        "stopFrame": 160
+
+    },
+
+    "climb": {
+
+        "frames": [40, 41, 42, 43, 44, 45],
+
+        "frameRate": 20,
+
+        "loop": true,
+
+        "stopFrame": 40
+
+    },
+
+    "hang": {
+
+        "frames": [111, 112, 113, 114, 115, 116, 117, 118, 119],
+
+        "frameRate": 15,
+
+        "loop": true,
+
+        "stopFrame": 111
+
+    },
+
+    "hang_tilt": {
+        "frames": [110],
+        "frameRate": 1,
+        "loop": false,
+        "stopFrame": 110
+    },
+
+    "defend": {
+
+        "frames": [88, 89, 97, 98, 99],
+
+        "frameRate": 25,
+
+        "loop": false,
+
+        "stopFrame": 119
+
+    },
+
+    "undefend": {
+
+        "frames": [99, 98, 97, 89, 88],
+
+        "frameRate": 25,
+
+        "loop": false,
+
+        "stopFrame": 0
+
+    },
+
+    "damage": {
+
+        "frames": [36, 37],
+
+        "frameRate": 15,
+
+        "loop": false,
+
+        "stopFrame": 37
+
+    },
+
+    "damage_AxeItem": {
+
+        "frames": [38, 39],
+
+        "frameRate": 15,
+
+        "loop": false,
+
+        "stopFrame": 39
+
+    },
+
+    "damage_HammerItem": {
+
+        "frames": [86, 87],
+
+        "frameRate": 15,
+
+        "loop": false,
+
+        "stopFrame": 87
+
+    },
+
+    "hit_AxeItem": {
+
+        "frames": [50, 51, 52, 53, 54, 55, 56, 57, 58],
+
+        "frameRate": 30,
+
+        "loop": false
+
+    },
+
+    "hit_HammerItem": {
+
+        "frames": [130, 131, 132, 133, 134, 135, 136, 137, 138],
+
+        "frameRate": 30,
+
+        "loop": false
+
+    },
+
+    "throw_AxeItem": {
+
+        "frames": [60, 61, 62, 62, 63, 64, 65, 66, 67, 67, 68, 69],
+
+        "frameRate": 25,
+
+        "loop": false
+
+    },
+
+    "throw_HammerItem": {
+
+        "frames": [140, 141, 142, 142, 143, 144, 145, 146, 147, 147, 148, 149],
+
+        "frameRate": 60,
+
+        "loop": false
+
+    },
+
+    "throw_PowerupItem_gold": {
+
+        "frames": [144, 145, 146, 147, 148, 149],
+
+        "frameRate": 25,
+
+        "loop": false
+
+    },
+
+    "throw_PowerupItem_silver": {
+
+        "frames": [144, 145, 146, 147, 148, 149],
+
+        "frameRate": 25,
+
+        "loop": false
+
+    },
+
+    "throw_PowerupItem_normal": {
+
+        "frames": [144, 145, 146, 147, 148, 149],
+
+        "frameRate": 25,
+
+        "loop": false
+
+    },
+
+    "throwUp_AxeItem": {
+
+        "frames": [200, 200, 201, 202, 229, 229, 225],
+
+        "frameRate": 25,
+
+        "loop": false
+
+    },
+
+    "throwUp_HammerItem": {
+
+        "frames": [205, 205, 206, 207, 229, 229, 225],
+
+        "frameRate": 25,
+
+        "loop": false
+
+    },
+
+    "throwUp_PowerupItem_gold": {
+
+        "frames": [229, 225],
+
+        "frameRate": 25,
+
+        "loop": false
+
+    },
+
+    "throwUp_PowerupItem_silver": {
+
+        "frames": [229, 225],
+
+        "frameRate": 25,
+
+        "loop": false
+
+    },
+
+    "throwUp_PowerupItem_normal": {
+
+        "frames": [229, 225],
+
+        "frameRate": 25,
+
+        "loop": false
+
+    },
+
+    "throwDown_AxeItem": {
+
+        "frames": [210, 211, 212, 213, 214, 215, 216, 217, 218],
+
+        "frameRate": 25,
+
+        "loop": false
+
+    },
+
+    "throwDown_HammerItem": {
+
+        "frames": [210, 211, 212, 213, 214, 215, 216, 217, 218],
+
+        "frameRate": 25,
+
+        "loop": false
+
+    },
+
+    "throwDown_PowerupItem_gold": {
+
+        "frames": [211, 214, 215, 216, 217, 218],
+
+        "frameRate": 25,
+
+        "loop": false
+
+    },
+
+    "throwDown_PowerupItem_silver": {
+
+        "frames": [211, 214, 215, 216, 217, 218],
+
+        "frameRate": 25,
+
+        "loop": false
+
+    },
+
+    "throwDown_PowerupItem_normal": {
+
+        "frames": [211, 214, 215, 216, 217, 218],
+
+        "frameRate": 25,
+
+        "loop": false
+
+    },
+
+    "falling": {
+
+        "frames": [24],
+
+        "frameRate": 0,
+
+        "loop": false,
+
+        "stopFrame": 0
+
+    },
+    "falling_AxeItem": {
+
+        "frames": [94],
+
+        "frameRate": 0,
+
+        "loop": false,
+
+        "stopFrame": 0
+    },
+
+    "falling_HammerItem": {
+
+        "frames": [174],
+
+        "frameRate": 0,
+
+        "loop": false,
+
+        "stopFrame": 0
+
+    },
+
+    "push": {
+
+        "frames": [220, 221, 222, 223, 224],
+
+        "frameRate": 10,
+
+        "loop": true,
+
+        "stopFrame": 260
+
+    },
+
+    "push_AxeItem": {
+
+        "frames": [120, 121, 122, 123, 124],
+
+        "frameRate": 10,
+
+        "loop": true,
+
+        "stopFrame": 120
+
+    },
+
+    "push_HammerItem": {
+
+        "frames": [190, 191, 192, 193, 194],
+
+        "frameRate": 10,
+
+        "loop": true,
+
+        "stopFrame": 190
+
+    },
+
+    "hitUp_AxeItem":{
+	
+        "frames": [200, 201, 202, 203, 204],
+        
+        "frameRate": 30,
+        
+        "loop": false
+       
+     },
+
+	"hitUp_HammerItem":{
+	
+        "frames": [205, 206, 207, 208, 209],
+        
+        "frameRate": 30,
+        
+        "loop": false
+       
+    },
+    
+    "waiting": {
+        "frames": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 7, 8, 9, 8, 7, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        "frameRate": 30,
+        "loop": true,
+        "stopFrame": 0
+    },
+    
+    "waiting_HammerItem": {
+        "frames": [180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 106, 107, 108, 109, 108, 107, 106, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180, 180],
+        "frameRate": 30,
+        "loop": true,
+        "stopFrame": 180
+    },
+    
+    "waiting_AxeItem": {
+        "frames": [100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 46, 47, 48, 49, 48, 47, 46, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100],
+        "frameRate": 30,
+        "loop": true,
+        "stopFrame": 100
+    }
+
+}

@@ -1,0 +1,12 @@
+	{ 
+		
+		"blue": [
+			  
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   982, 7  ,  0, 7  ,  2, 1  ,  980, 0  ]
+				}  
+		]
+		
+	}

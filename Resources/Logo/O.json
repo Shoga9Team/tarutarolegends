@@ -1,0 +1,17 @@
+	{ 
+		
+		"O": [
+			
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   0, 107  ,  31, 22  ,  147, 100  ,  142, 112  ,  134, 121  ,  116, 130  ,  12, 130  ,  1, 122  ]
+				}  ,
+				{
+					"density": 2, "friction": 0, "bounce": 0, 
+					"filter": { "categoryBits": 1, "maskBits": 65535 },
+					"shape": [   170, 24  ,  147, 100  ,  31, 22  ,  44, 7  ,  59, 1  ,  159, 0  ,  169, 11  ]
+				}  
+		]
+		
+	}

@@ -1,0 +1,22 @@
+{
+    "mos_passive": {
+        "start": 0.00,
+        "duration": 1.7,
+        "volume": 0.5
+    },
+    "mos_attack": {
+        "start": 1.954,
+        "duration": 1.45,
+        "volume": 1.0
+    },
+    "mos_damage": {
+        "start": 3.92,
+        "duration": 1.28,
+        "volume": 1.0
+    },
+    "mos_dead": {
+        "start": 5.87,
+        "duration": 1.26,
+        "volume": 1.0
+    }
+}
