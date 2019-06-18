@@ -178,16 +178,6 @@
             }
         };
     </script>
-    <script>
-        if(navigator.serviceWorker){
-			navigator.serviceWorker
-                .register('./serviceworker.js', { scope: './' })
-                // .then(reg => console.log('Registration succeeded. Scope is ' + reg.scope)) //registration => registration.update())
-                .catch(e => console.log('Registration failed with ' + e));
-		}else{
-			console.warn('SST:Service Worker is not supported in this browser.');
-		}
-    </script>
     <script src="JavaScript/Game.js?20190608"></script>
     <a id="copywright" href="https://shoga9team.com" target="_blank" style="display: none;">2019 ShogaIX Productions. All rights reserved.</a>
 </body>
