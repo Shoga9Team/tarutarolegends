@@ -6,6 +6,8 @@ class MasterServiceWorker {
         this.version = 'v1'
         this.precache = [
             './',
+            './index.html',
+            './manifest.json',
             './favicon.gif'
         ]
         this.doNotIntercept = []
