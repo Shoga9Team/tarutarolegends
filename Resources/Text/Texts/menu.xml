@@ -312,4 +312,9 @@
         <de_de>Spiel zu Ende</de_de>
         <ja_jp>ゲームオーバー</ja_jp>
     </translation>
+    <translation id="copyright">
+        <en_us>ShogaIX Productions. All rights reserved.</en_us>
+        <de_de>ShogaIX Productions. All rights reserved.</de_de>
+        <ja_jp>ShogaIX Productions. All rights reserved.</ja_jp>
+    </translation>
 </translations>
