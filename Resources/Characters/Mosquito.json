@@ -1,44 +1,44 @@
 {
     "fly": {
-        "frames": [0, 1],
-        "frameRate": 10,
+        "frames": [0, 1, 2, 1, 0, 3],
+        "frameRate": 60,
         "loop": true,
         "stopFrame": 0
     },
 	"fly_forward": {
-        "frames": [16, 17, 18, 19, 20, 21, 22, 23, 22, 21, 20, 19, 18, 17],
-        "frameRate": 15,
+        "frames": [16, 17, 18, 19, 20, 21],
+        "frameRate": 60,
         "loop": true,
         "stopFrame": 16
     },
     "attackForward": {
-        "frames": [24, 25, 26, 8, 9, 8, 26, 25, 24],
-        "frameRate": 30,
+        "frames": [8, 9, 10, 9],
+        "frameRate": 60,
         "loop": false,
-        "stopFrame": 24
+        "stopFrame": 8
     },
     "attackUp": {
-        "frames": [24, 29, 30, 12, 13, 12, 30, 29, 24],
-        "frameRate": 30,
+        "frames": [14, 22, 15, 22, 14, 28],
+        "frameRate": 60,
         "loop": false,
-        "stopFrame": 24
+        "stopFrame": 14
     },
     "attackDown": {
-        "frames": [24, 27, 28, 6, 7, 6, 28, 27, 24],
-        "frameRate": 30,
+        "frames": [6, 23, 7, 23, 6, 27],
+        "frameRate": 60,
         "loop": false,
-        "stopFrame": 24
+        "stopFrame": 6
     },
     "attackForwardUp": {
-        "frames": [24, 29, 30, 10, 11, 10, 30, 29, 24],
-        "frameRate": 30,
+        "frames": [11, 12, 13, 12, 11, 26],
+        "frameRate": 60,
         "loop": false,
-        "stopFrame": 24
+        "stopFrame": 11
     },
     "attackForwardDown": {
-        "frames": [24, 27, 28, 4, 5, 4, 28, 27, 24],
-        "frameRate": 30,
+        "frames": [4, 25, 5, 25, 4, 24],
+        "frameRate": 60,
         "loop": false,
-        "stopFrame": 24
+        "stopFrame": 4
     }
 }

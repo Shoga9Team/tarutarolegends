@@ -376,6 +376,7 @@
             </struct>
             <key type="filename">../Items/hitArea.png</key>
             <key type="filename">../Menu/background.png</key>
+            <key type="filename">../Menu/settings.svg</key>
             <key type="filename">../Menu/skip-forward.svg</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -635,6 +636,7 @@
             <filename>../Menu/stamp(perfect).png</filename>
             <filename>../Menu/stamp(so-so).png</filename>
             <filename>../Menu/stamp(wonderful).png</filename>
+            <filename>../Menu/settings.svg</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

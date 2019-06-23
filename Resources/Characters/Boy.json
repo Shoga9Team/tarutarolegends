@@ -4,7 +4,7 @@
 
         "frames": [0, 1, 2, 3, 4, 5],
 
-        "frameRate": 10,
+        "frameRate": 15,
 
         "loop": true,
 
@@ -16,7 +16,7 @@
 
         "frames": [100, 101, 102, 103, 104, 105],
 
-        "frameRate": 10,
+        "frameRate": 15,
 
         "loop": true,
 
@@ -28,7 +28,7 @@
 
         "frames": [180, 181, 182, 183, 184, 185],
 
-        "frameRate": 10,
+        "frameRate": 15,
 
         "loop": true,
 
@@ -142,7 +142,7 @@
 
         "frames": [40, 41, 42, 43, 44, 45],
 
-        "frameRate": 20,
+        "frameRate": 10,
 
         "loop": true,
 
@@ -173,11 +173,11 @@
 
         "frames": [88, 89, 97, 98, 99],
 
-        "frameRate": 25,
+        "frameRate": 15,
 
         "loop": false,
 
-        "stopFrame": 119
+        "stopFrame": 99
 
     },
 
@@ -185,7 +185,7 @@
 
         "frames": [99, 98, 97, 89, 88],
 
-        "frameRate": 25,
+        "frameRate": 15,
 
         "loop": false,
 
@@ -233,7 +233,7 @@
 
         "frames": [50, 51, 52, 53, 54, 55, 56, 57, 58],
 
-        "frameRate": 30,
+        "frameRate": 45,
 
         "loop": false
 
@@ -243,7 +243,7 @@
 
         "frames": [130, 131, 132, 133, 134, 135, 136, 137, 138],
 
-        "frameRate": 30,
+        "frameRate": 20,
 
         "loop": false
 
@@ -251,9 +251,9 @@
 
     "throw_AxeItem": {
 
-        "frames": [60, 61, 62, 62, 63, 64, 65, 66, 67, 67, 68, 69],
+        "frames": [60, 61, 62, 63, 64, 65, 66, 67, 68, 69],
 
-        "frameRate": 25,
+        "frameRate": 60,
 
         "loop": false
 
@@ -261,7 +261,7 @@
 
     "throw_HammerItem": {
 
-        "frames": [140, 141, 142, 142, 143, 144, 145, 146, 147, 147, 148, 149],
+        "frames": [140, 141, 142, 143, 144, 145, 146, 147, 148, 149],
 
         "frameRate": 60,
 
@@ -273,7 +273,7 @@
 
         "frames": [144, 145, 146, 147, 148, 149],
 
-        "frameRate": 25,
+        "frameRate": 60,
 
         "loop": false
 
@@ -283,7 +283,7 @@
 
         "frames": [144, 145, 146, 147, 148, 149],
 
-        "frameRate": 25,
+        "frameRate": 60,
 
         "loop": false
 
@@ -293,7 +293,7 @@
 
         "frames": [144, 145, 146, 147, 148, 149],
 
-        "frameRate": 25,
+        "frameRate": 60,
 
         "loop": false
 
@@ -301,9 +301,9 @@
 
     "throwUp_AxeItem": {
 
-        "frames": [200, 200, 201, 202, 229, 229, 225],
+        "frames": [200, 201, 202, 229, 225],
 
-        "frameRate": 25,
+        "frameRate": 40,
 
         "loop": false
 
@@ -311,9 +311,9 @@
 
     "throwUp_HammerItem": {
 
-        "frames": [205, 205, 206, 207, 229, 229, 225],
+        "frames": [205, 206, 207, 229, 225],
 
-        "frameRate": 25,
+        "frameRate": 40,
 
         "loop": false
 
@@ -323,7 +323,7 @@
 
         "frames": [229, 225],
 
-        "frameRate": 25,
+        "frameRate": 60,
 
         "loop": false
 
@@ -333,7 +333,7 @@
 
         "frames": [229, 225],
 
-        "frameRate": 25,
+        "frameRate": 60,
 
         "loop": false
 
@@ -343,7 +343,7 @@
 
         "frames": [229, 225],
 
-        "frameRate": 25,
+        "frameRate": 60,
 
         "loop": false
 
@@ -353,7 +353,7 @@
 
         "frames": [210, 211, 212, 213, 214, 215, 216, 217, 218],
 
-        "frameRate": 25,
+        "frameRate": 60,
 
         "loop": false
 
@@ -363,7 +363,7 @@
 
         "frames": [210, 211, 212, 213, 214, 215, 216, 217, 218],
 
-        "frameRate": 25,
+        "frameRate": 60,
 
         "loop": false
 
@@ -373,7 +373,7 @@
 
         "frames": [211, 214, 215, 216, 217, 218],
 
-        "frameRate": 25,
+        "frameRate": 60,
 
         "loop": false
 
@@ -383,7 +383,7 @@
 
         "frames": [211, 214, 215, 216, 217, 218],
 
-        "frameRate": 25,
+        "frameRate": 60,
 
         "loop": false
 
@@ -393,7 +393,7 @@
 
         "frames": [211, 214, 215, 216, 217, 218],
 
-        "frameRate": 25,
+        "frameRate": 60,
 
         "loop": false
 
@@ -437,7 +437,7 @@
 
         "frames": [220, 221, 222, 223, 224],
 
-        "frameRate": 10,
+        "frameRate": 15,
 
         "loop": true,
 
@@ -449,7 +449,7 @@
 
         "frames": [120, 121, 122, 123, 124],
 
-        "frameRate": 10,
+        "frameRate": 15,
 
         "loop": true,
 
@@ -461,7 +461,7 @@
 
         "frames": [190, 191, 192, 193, 194],
 
-        "frameRate": 10,
+        "frameRate": 15,
 
         "loop": true,
 

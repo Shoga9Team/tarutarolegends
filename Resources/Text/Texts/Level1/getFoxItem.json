@@ -1,0 +1,50 @@
+{
+    "steps0": [
+        {
+            "character": "Boy"
+        },
+        {
+            "character": "Fox"
+        },
+        {
+            "controls": {
+                "cursors.walkAwayFrom": true,
+                "duration": 1500
+            }
+        },
+        {
+            "controls": {
+                "cursors.walkTo": true,
+                "cursors.down": true,
+                "duration": 250
+            }
+        },
+        {
+            "text": {
+                "en_us": "get some Foxe",
+                "de_de": "get some Foxe",
+                "ja_jp": "get some Foxe"
+            }
+        },
+        {
+            "inventory": {
+                "open": true,
+                "collectFoxes": 1,
+                "active": "FoxItem"
+            },
+            "character": "Boy"
+        },
+        {
+            "text": {
+                "en_us": "Thanks",
+                "de_de": "Thanks",
+                "ja_jp": "Thanks"
+            }
+        },
+        {
+            "inventory": {
+                "close": true
+            }
+        }
+    ]
+}

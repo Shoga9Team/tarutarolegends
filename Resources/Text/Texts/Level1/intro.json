@@ -1,0 +1,110 @@
+{
+    "steps0": [
+        {
+            "controls": {
+                "cursors.left": true,
+                "duration": 50
+            },
+            "character": "Boy"
+        },
+        {
+            "controls": {
+                "cursors.right": true,
+                "duration": 500
+            }
+        },
+        {
+            "controls": {
+                "cursors.left": true,
+                "duration": 250
+            }
+        },
+        {
+            "controls": {
+                "cursors.right": true,
+                "duration": 500
+            }
+        },
+        {
+            "text": {
+                "en_us": "Wooooow!",
+                "de_de": "Wooooow!",
+                "ja_jp": "Wooooow!"
+            },
+            "style": {
+                "color": "red",
+                "fontSize": 75
+            }
+        },
+        {
+            "text": {
+                "en_us": "Something, is stuck on my back...",
+                "de_de": "Something, is stuck on my back...",
+                "ja_jp": "Something, is stuck on my back..."
+            },
+            "style": {
+                "color": "white",
+                "fontSize": 35
+            },
+            "controls": {
+                "cursors.down": true,
+                "duration": 250
+            }
+        },
+        {
+            "controls": {
+                "cursors.right": true,
+                "duration": 1500
+            },
+            "character": "Fox"
+        },
+        {
+            "controls": {
+                "cursors.left": true,
+                "cursors.down": true,
+                "duration": 250
+            }
+        },
+        {
+            "text": {
+                "en_us": "Who are you??",
+                "de_de": "Who are you??",
+                "ja_jp": "Who are you??"
+            },
+            "style": {
+                "color": "blue",
+                "fontSize": 35
+            },
+            "async": true
+        },
+        {
+            "text": {
+                "en_us": "I don't know...",
+                "de_de": "I don't know...",
+                "ja_jp": "I don't know..."
+            },
+            "style": {
+                "color": "white",
+                "fontSize": 35
+            },
+            "character": "Boy"
+        }
+    ],
+    "steps1": [
+        {
+            "text": {
+                "en_us": "Steps1",
+                "de_de": "Steps1",
+                "ja_jp": "Steps1"
+            },
+            "style": {
+                "color": "red",
+                "fontSize": 75
+            },
+            "character": "Boy"
+        },
+        {
+            "ref": "steps0"
+        }
+    ]
+}
