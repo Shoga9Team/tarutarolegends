@@ -377,7 +377,6 @@
             <key type="filename">../Items/hitArea.png</key>
             <key type="filename">../Menu/background.png</key>
             <key type="filename">../Menu/settings.svg</key>
-            <key type="filename">../Menu/skip-forward.svg</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -628,7 +627,6 @@
             <filename>../Menu/background.png</filename>
             <filename>../Controls/Boy/Joystick</filename>
             <filename>../Menu/volume-x.svg</filename>
-            <filename>../Menu/skip-forward.svg</filename>
             <filename>../Menu/x-square.svg</filename>
             <filename>../Menu/circle.svg</filename>
             <filename>../Menu/stamp(good).png</filename>

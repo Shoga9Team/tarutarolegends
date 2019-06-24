@@ -1,11 +1,193 @@
 {
     "steps0": [
         {
-            "character": "Boy"
+            "character": "Boy",
+            "inventory": {
+                "close": true
+            }
         },
         {
             "character": "Fox"
         },
+        {
+            "ref": "foxOut"
+        },
+        {
+            "text": {
+                "en_us": "Look into your inventory!",
+                "de_de": "Look into your inventory!",
+                "ja_jp": "Look into your inventory!"
+            }
+        },
+        {
+            "character": "Boy",
+            "text": {
+                "en_us": "yeah, the ususal...",
+                "de_de": "yeah, the ususal...",
+                "ja_jp": "yeah, the ususal..."
+            },
+            "inventory": {
+                "open": true
+            }
+        },
+        {
+            "character": "Fox",
+            "text": {
+                "en_us": "Here, grab a Fox Item",
+                "de_de": "Here, grab a Fox Item",
+                "ja_jp": "Here, grab a Fox Item"
+            }
+        },
+        {
+            "ref": "collectFox"
+        },
+        {
+            "text": {
+                "en_us": "Thank you very much! But how do I use this?",
+                "de_de": "Thank you very much! But how do I use this?",
+                "ja_jp": "Thank you very much! But how do I use this?"
+            }
+        },
+        {
+            "character": "Fox",
+            "text": {
+                "en_us": "You run up to a foo and hit the barrel button or directly click on the enemy, to take control of it.",
+                "de_de": "You run up to a foo and hit the barrel button or directly click on the enemy, to take control of it.",
+                "ja_jp": "You run up to a foo and hit the barrel button or directly click on the enemy, to take control of it."
+            }
+        },
+        {
+            "character": "Boy",
+            "inventory": {
+                "close": true
+            }
+        }
+    ],
+    "steps1": [
+        {
+            "character": "Boy",
+            "inventory": {
+                "close": true
+            }
+        },
+        {
+            "character": "Fox"
+        },
+        {
+            "ref": "foxOut"
+        },
+        {
+            "text": {
+                "en_us": "Wanna have one more?",
+                "de_de": "Wanna have one more?",
+                "ja_jp": "Wanna have one more?"
+            }
+        },
+        {
+            "character": "Boy",
+            "text": {
+                "en_us": "mmhhhh, yes please!",
+                "de_de": "mmhhhh, yes please!",
+                "ja_jp": "mmhhhh, yes please!"
+            },
+            "inventory": {
+                "open": true
+            }
+        },
+        {
+            "ref": "collectFox"
+        },
+        {
+            "text": {
+                "en_us": "thanks!",
+                "de_de": "thanks!",
+                "ja_jp": "thanks!"
+            }
+        },
+        {
+            "inventory": {
+                "close": true
+            }
+        }
+    ],
+    "steps2": [
+        {
+            "character": "Boy",
+            "inventory": {
+                "close": true
+            }
+        },
+        {
+            "character": "Fox"
+        },
+        {
+            "ref": "foxOut"
+        },
+        {
+            "text": {
+                "en_us": "What again?",
+                "de_de": "What again?",
+                "ja_jp": "What again?"
+            }
+        },
+        {
+            "character": "Boy",
+            "text": {
+                "en_us": "Please!",
+                "de_de": "Please!",
+                "ja_jp": "Please!"
+            },
+            "inventory": {
+                "open": true
+            }
+        },
+        {
+            "ref": "collectFox"
+        },
+        {
+            "text": {
+                "en_us": "thanks!",
+                "de_de": "thanks!",
+                "ja_jp": "thanks!"
+            }
+        },
+        {
+            "character": "Fox",
+            "text": {
+                "en_us": "But this was the last one!",
+                "de_de": "But this was the last one!",
+                "ja_jp": "But this was the last one!"
+            }
+        },
+        {
+            "character": "Boy",
+            "inventory": {
+                "close": true
+            }
+        }
+    ],
+    "steps3": [
+        {
+            "character": "Boy",
+            "inventory": {
+                "close": true
+            }
+        },
+        {
+            "character": "Fox"
+        },
+        {
+            "ref": "foxOut"
+        },
+        {
+            "text": {
+                "en_us": "I told ya, no more... sorry!",
+                "de_de": "I told ya, no more... sorry!",
+                "ja_jp": "I told ya, no more... sorry!"
+            }
+        }
+    ],
+    "foxOut": [
         {
             "controls": {
                 "cursors.walkAwayFrom": true,
@@ -15,35 +197,21 @@
         {
             "controls": {
                 "cursors.walkTo": true,
+                "duration": 50
+            }
+        },
+        {
+            "controls": {
                 "cursors.down": true,
-                "duration": 250
+                "duration": 50
             }
-        },
+        }
+    ],
+    "collectFox": [
         {
-            "text": {
-                "en_us": "get some Foxe",
-                "de_de": "get some Foxe",
-                "ja_jp": "get some Foxe"
-            }
-        },
-        {
+            "character": "Boy",
             "inventory": {
-                "open": true,
-                "collectFoxes": 1,
-                "active": "FoxItem"
-            },
-            "character": "Boy"
-        },
-        {
-            "text": {
-                "en_us": "Thanks",
-                "de_de": "Thanks",
-                "ja_jp": "Thanks"
-            }
-        },
-        {
-            "inventory": {
-                "close": true
+                "collectFoxes": 1
             }
         }
     ]

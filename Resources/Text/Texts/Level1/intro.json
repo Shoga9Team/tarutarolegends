@@ -1,110 +1,129 @@
 {
     "steps0": [
         {
-            "controls": {
-                "cursors.left": true,
-                "duration": 50
-            },
-            "character": "Boy"
-        },
-        {
-            "controls": {
-                "cursors.right": true,
-                "duration": 500
+            "character": "Boy",
+            "inventory": {
+                "close": true
             }
         },
         {
-            "controls": {
-                "cursors.left": true,
-                "duration": 250
-            }
-        },
-        {
-            "controls": {
-                "cursors.right": true,
-                "duration": 500
-            }
-        },
-        {
-            "text": {
-                "en_us": "Wooooow!",
-                "de_de": "Wooooow!",
-                "ja_jp": "Wooooow!"
-            },
-            "style": {
-                "color": "red",
-                "fontSize": 75
-            }
-        },
-        {
-            "text": {
-                "en_us": "Something, is stuck on my back...",
-                "de_de": "Something, is stuck on my back...",
-                "ja_jp": "Something, is stuck on my back..."
-            },
-            "style": {
-                "color": "white",
-                "fontSize": 35
-            },
-            "controls": {
-                "cursors.down": true,
-                "duration": 250
-            }
-        },
-        {
-            "controls": {
-                "cursors.right": true,
-                "duration": 1500
-            },
             "character": "Fox"
         },
         {
-            "controls": {
-                "cursors.left": true,
-                "cursors.down": true,
-                "duration": 250
+            "ref": "foxOut"
+        },
+        {
+            "text": {
+                "en_us": "Welcome to Kimagure Forest",
+                "de_de": "Welcome to Kimagure Forest",
+                "ja_jp": "Welcome to Kimagure Forest"
             }
         },
         {
+            "character": "Boy",
             "text": {
-                "en_us": "Who are you??",
-                "de_de": "Who are you??",
-                "ja_jp": "Who are you??"
-            },
-            "style": {
-                "color": "blue",
-                "fontSize": 35
-            },
-            "async": true
+                "en_us": "Why am I here?",
+                "de_de": "Why am I here?",
+                "ja_jp": "Why am I here?"
+            }
         },
         {
+            "character": "Fox",
             "text": {
-                "en_us": "I don't know...",
-                "de_de": "I don't know...",
-                "ja_jp": "I don't know..."
-            },
-            "style": {
-                "color": "white",
-                "fontSize": 35
-            },
-            "character": "Boy"
+                "en_us": "I thought you wanted to play the demo game?",
+                "de_de": "I thought you wanted to play the demo game?",
+                "ja_jp": "I thought you wanted to play the demo game?"
+            }
+        },
+        {
+            "ref": "how"
         }
     ],
     "steps1": [
         {
-            "text": {
-                "en_us": "Steps1",
-                "de_de": "Steps1",
-                "ja_jp": "Steps1"
-            },
-            "style": {
-                "color": "red",
-                "fontSize": 75
-            },
-            "character": "Boy"
+            "character": "Boy",
+            "inventory": {
+                "close": true
+            }
         },
         {
-            "ref": "steps0"
+            "character": "Fox"
+        },
+        {
+            "ref": "foxOut"
+        },
+        {
+            "ref": "how"
+        }
+    ],
+    "how": [
+        {
+            "character": "Boy",
+            "text": {
+                "en_us": "So, how do I play it?",
+                "de_de": "So, how do I play it?",
+                "ja_jp": "So, how do I play it?"
+            }
+        },
+        {
+            "character": "Fox",
+            "text": {
+                "en_us": "If you are new, you best enter the pause menu with the pause button (on Keyboards 'P') and on touch devices by clicking on yourself and then the settings symbol.",
+                "de_de": "If you are new, you best enter the pause menu with the pause button (on Keyboards 'P') and on touch devices by clicking on yourself and then the settings symbol.",
+                "ja_jp": "If you are new, you best enter the pause menu with the pause button (on Keyboards 'P') and on touch devices by clicking on yourself and then the settings symbol."
+            }
+        },
+        {
+            "character": "Fox",
+            "text": {
+                "en_us": "In the menu you click Settings -> Controls -> Layout",
+                "de_de": "In the menu you click Settings -> Controls -> Layout",
+                "ja_jp": "In the menu you click Settings -> Controls -> Layout"
+            }
+        },
+        {
+            "character": "Boy",
+            "text": {
+                "en_us": "So there I can figure out the buttons but how do I fight off possible threats?",
+                "de_de": "So there I can figure out the buttons but how do I fight off possible threats?",
+                "ja_jp": "So there I can figure out the buttons but how do I fight off possible threats?"
+            }
+        },
+        {
+            "character": "Fox",
+            "text": {
+                "en_us": "That is quite easy. Climb on trees and search the map at every possible corner for weapons and powerups to your advantage.",
+                "de_de": "That is quite easy. Climb on trees and search the map at every possible corner for weapons and powerups to your advantage.",
+                "ja_jp": "That is quite easy. Climb on trees and search the map at every possible corner for weapons and powerups to your advantage."
+            }
+        },
+        {
+            "character": "Boy",
+            "text": {
+                "en_us": "Alright, thank you!",
+                "de_de": "Alright, thank you!",
+                "ja_jp": "Alright, thank you!"
+            }
+        }
+    ],
+    "foxOut": [
+        {
+            "controls": {
+                "cursors.walkAwayFrom": true,
+                "duration": 1000
+            }
+        },
+        {
+            "controls": {
+                "cursors.walkTo": true,
+                "duration": 50
+            }
+        },
+        {
+            "controls": {
+                "cursors.down": true,
+                "duration": 50
+            }
         }
     ]
 }
