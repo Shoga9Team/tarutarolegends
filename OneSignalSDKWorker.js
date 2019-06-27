@@ -1,9 +1,9 @@
-importScripts('https://cdn.onesignal.com/sdks/OneSignalSDKWorker.js');
+importScripts('https://cdn.onesignal.com/sdks/OneSignalSDKWorker.js')
 
 class MasterServiceWorker {
     constructor() {
         this.name = 'ServiceWorker'
-        this.version = 'v4'
+        this.version = 'v5'
         this.precache = [
             './',
             './index.html',
@@ -15,11 +15,16 @@ class MasterServiceWorker {
     }
     run() {
         this.addInstallEventListener()
+        this.addActivateEventListener()
         this.addFetchEventListener()
     }
     // onInstall init cache
     addInstallEventListener() {
         self.addEventListener('install', event => event.waitUntil(caches.open(this.version).then(cache => cache.addAll(this.precache))))
+    }
+    // onActivate clear old caches to avoid conflict
+    addActivateEventListener(){
+        self.addEventListener('activate', event => event.waitUntil(caches.keys().then(keyList => Promise.all(keyList.map(key => key !== this.version ? caches.delete(key) : undefined)))))
     }
     // intercepts fetches, asks cache for fast response and still fetches and caches afterwards
     addFetchEventListener() {
