@@ -1,0 +1,129 @@
+{
+    "steps0": [
+        {
+            "character": "Boy",
+            "inventory": {
+                "close": true
+            }
+        },
+        {
+            "character": "Fox"
+        },
+        {
+            "ref": "foxOut"
+        },
+        {
+            "text": {
+                "en_us": "Hin1 step0 text",
+                "de_de": "Hin1 step0 text",
+                "ja_jp": "Hin1 step0 text"
+            }
+        },
+        {
+            "character": "Boy",
+            "text": {
+                "en_us": "Why am I here?",
+                "de_de": "Why am I here?",
+                "ja_jp": "Why am I here?"
+            }
+        },
+        {
+            "character": "Fox",
+            "text": {
+                "en_us": "I thought you wanted to play the demo game?",
+                "de_de": "I thought you wanted to play the demo game?",
+                "ja_jp": "I thought you wanted to play the demo game?"
+            }
+        },
+        {
+            "ref": "how"
+        }
+    ],
+    "steps1": [
+        {
+            "character": "Boy",
+            "inventory": {
+                "close": true
+            }
+        },
+        {
+            "character": "Fox"
+        },
+        {
+            "ref": "foxOut"
+        },
+        {
+            "ref": "how"
+        }
+    ],
+    "how": [
+        {
+            "character": "Boy",
+            "text": {
+                "en_us": "Hint1 repeated text",
+                "de_de": "Hint1 repeated text",
+                "ja_jp": "Hint1 repeated text"
+            }
+        },
+        {
+            "character": "Fox",
+            "text": {
+                "en_us": "If you are new, you best enter the pause menu with the pause button (on Keyboards 'P') and on touch devices by clicking on yourself and then the settings symbol.",
+                "de_de": "If you are new, you best enter the pause menu with the pause button (on Keyboards 'P') and on touch devices by clicking on yourself and then the settings symbol.",
+                "ja_jp": "If you are new, you best enter the pause menu with the pause button (on Keyboards 'P') and on touch devices by clicking on yourself and then the settings symbol."
+            }
+        },
+        {
+            "character": "Fox",
+            "text": {
+                "en_us": "In the menu you click Settings -> Controls -> Layout",
+                "de_de": "In the menu you click Settings -> Controls -> Layout",
+                "ja_jp": "In the menu you click Settings -> Controls -> Layout"
+            }
+        },
+        {
+            "character": "Boy",
+            "text": {
+                "en_us": "So there I can figure out the buttons but how do I fight off possible threats?",
+                "de_de": "So there I can figure out the buttons but how do I fight off possible threats?",
+                "ja_jp": "So there I can figure out the buttons but how do I fight off possible threats?"
+            }
+        },
+        {
+            "character": "Fox",
+            "text": {
+                "en_us": "That is quite easy. Climb on trees and search the map at every possible corner for weapons and powerups to your advantage.",
+                "de_de": "That is quite easy. Climb on trees and search the map at every possible corner for weapons and powerups to your advantage.",
+                "ja_jp": "That is quite easy. Climb on trees and search the map at every possible corner for weapons and powerups to your advantage."
+            }
+        },
+        {
+            "character": "Boy",
+            "text": {
+                "en_us": "Alright, thank you!",
+                "de_de": "Alright, thank you!",
+                "ja_jp": "Alright, thank you!"
+            }
+        }
+    ],
+    "foxOut": [
+        {
+            "controls": {
+                "cursors.walkAwayFrom": true,
+                "duration": 1000
+            }
+        },
+        {
+            "controls": {
+                "cursors.walkTo": true,
+                "duration": 50
+            }
+        },
+        {
+            "controls": {
+                "cursors.down": true,
+                "duration": 50
+            }
+        }
+    ]
+}

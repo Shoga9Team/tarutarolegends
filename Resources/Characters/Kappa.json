@@ -13,41 +13,41 @@
     },
     "running": {
         "frames": [8, 9, 10, 11, 12, 13, 14, 15],
-        "frameRate": 35,
+        "frameRate": 40,
         "loop": true,
         "stopFrame": 0
     },
 	"jump": {
         "frames": [16, 17, 18, 17, 16],
-        "frameRate": 4,
+        "frameRate": 15,
         "loop": false,
         "stopFrame": 18
     },
     "jumpBackward": {
         "frames": [16, 17, 19, 17, 16],
-        "frameRate": 4,
+        "frameRate": 15,
         "loop": false,
         "stopFrame": 19
     },
     "jumpForward": {
         "frames": [16, 17, 20, 17, 16],
-        "frameRate": 4,
+        "frameRate": 15,
         "loop": false,
         "stopFrame": 20
     },
     "hit": {
-        "frames": [24, 25, 26, 27, 28, 29],
-        "frameRate": 20,
+        "frames": [40, 41, 42, 43, 44, 44, 45],
+        "frameRate": 40,
         "loop": false
     },
     "hitBackward": {
-        "frames": [32, 33, 34, 35, 36, 37],
-        "frameRate": 20,
+        "frames": [32, 33, 34, 35, 36, 36, 37],
+        "frameRate": 40,
         "loop": false
     },
     "hitForward": {
-        "frames": [40, 41, 42, 43, 44, 45],
-        "frameRate": 20,
+        "frames": [40, 41, 42, 43, 44, 44, 45],
+        "frameRate": 40,
         "loop": false
     },
      "falling": {
