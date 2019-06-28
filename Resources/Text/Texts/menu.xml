@@ -13,17 +13,17 @@
     <translation id="shareText">
         <en_us>Play Demo in Browser</en_us>
         <de_de>Spiele die Demo in deinem Browser</de_de>
-        <ja_jp>ブラウザでデモをプレイする</ja_jp>
+        <ja_jp>ゲームをブラウザで実行</ja_jp>
     </translation>
     <translation id="scrollIconHint">
-        <en_us>Swipe red arrows to remove address bar to enter fullscreen mode.</en_us>
-        <de_de>Benutze die roten Pfeile um die Adressleiste weg zu scrollen und Vollbildmodus einzuschalten.</de_de>
-        <ja_jp>全画面表示にするには、赤い矢印をスワイプするとアドレスバーを非表示になることが出来ます。</ja_jp>
+        <en_us>Swipe red arrows to remove address bar to enter fullscreen mode</en_us>
+        <de_de>Benutze die roten Pfeile um die Adressleiste weg zu scrollen und Vollbildmodus einzuschalten</de_de>
+        <ja_jp>全画面表示するには赤い矢印をスワイプしてアドレスバーを非表示します。</ja_jp>
     </translation>
     <translation id="android">
         <en_us>Install game as PWA on Android to enter fullscreen.</en_us>
         <de_de>Installieren Sie dieses Spiel als PWA auf Android um auf Vollbild umzuschalten.</de_de>
-        <ja_jp>全画面モードにするのは、Android上でPWAとしてゲームをインストールしてください。</ja_jp>
+        <ja_jp>Android上で全画面するにはPWAとしてインストールしてください。</ja_jp>
     </translation>
     <translation id="iOS">
         <en_us>NOTE: We encountered an issue where the address bar appears in Chrome and Safari on iPhones during fullscreen mode. Though it will not affect gameplay, it will conceal the in-game menu located at the top of the screen. As a temporary solution, we recommend turning the device from portrait mode to landscape mode to remove the address bar. Unfortunately, this solution only works in Safari.</en_us>
@@ -31,14 +31,14 @@
         <ja_jp>注意：iPhoneでSafariまたはChromeのブラウザを使用する際、全画面表示中にもアドレスバーを表示する問題を発見し、ゲームプレイをおよびませんが、画面上部に表示されるメニューツールを見えなくなってしまうため、あいにくSafariのみ問題解決としては数回にiPhone自体を縦から横に動かすとアドレスバーを非表示にすることができます。</ja_jp>
     </translation>
     <translation id="fps">
-        <en_us>Your device struggles to keep rendering at a stable pace. Ignore this message, if it is not an issue for you or you may change the Settings->Rendering->WebGL at the Main Menu or play with an other device/browser.</en_us>
+        <en_us>Your device may be struggling to render at a stable frame rate. If you are not encountering any issues, ignore this message. If you experiencing issues try enabling/disabling WebGL in the Settings->Rendering->WebGL or play with another device/browser.</en_us>
         <de_de>Dein Gerät hat Probleme eine stabile Bildrate zu halten. Ignoriere diese Nachricht, wenn es für Dich okay läuft. Ansonsten kannst du im Hauptmenü die Einstellungen->Renderer->WebGL anpassen oder mit einem anderen Gerät/Browser spielen.</de_de>
         <ja_jp>あなたのデバイスは安定したペースでレンダリングを続けるのに苦労しています。 このメッセージが問題にならない場合は無視してください。メインメニュー -> レンダリング -> WebGLを変更するか、他のデバイス/ブラウザで再生してください。</ja_jp>
     </translation>
     <translation id="startTestLevel1">
         <en_us>Start AI Test Level</en_us>
         <de_de>AI Test Level starten</de_de>
-        <ja_jp>人工知能テストレベルを開始する</ja_jp>
+        <ja_jp>人工知能テストレベル開始</ja_jp>
     </translation>
     <translation id="startTestAiMosquitoLevel1">
         <en_us>Start Test Mosquito AI Level</en_us>
@@ -48,14 +48,14 @@
     <translation id="startTestTileMapLevel1">
         <en_us>Start Test Tile Map Level</en_us>
         <de_de>Test Tile Map Level starten</de_de>
-        <ja_jp>人工知能テストレベル(Tile Map)を開始する</ja_jp>
+        <ja_jp>人工知能テストレベル(Tile Map)開始</ja_jp>
     </translation>
     <translation id="startLevel1">
         <!--<en_us>Start Level 1</en_us>
         <de_de>Level 1 starten</de_de>-->
         <en_us>Start Demo</en_us>
         <de_de>Demo Starten</de_de>
-        <ja_jp>デモを開始する</ja_jp>
+        <ja_jp>ゲーム開始</ja_jp>
     </translation>
     <translation id="testLevels">
         <en_us>Test Levels</en_us>
@@ -75,12 +75,12 @@
     <translation id="loadGame">
         <en_us>Load Game</en_us>
         <de_de>Spiel laden</de_de>
-        <ja_jp>ゲームをロードする</ja_jp>
+        <ja_jp>ロードゲーム</ja_jp>
     </translation>
     <translation id="saveGame">
         <en_us>Save Game</en_us>
         <de_de>Spiel speichern</de_de>
-        <ja_jp>ゲームを保存する</ja_jp>
+        <ja_jp>ゲーム保存</ja_jp>
     </translation>
     <translation id="emptySlot">
         <en_us>Empty Slot</en_us>
@@ -125,7 +125,7 @@
     <translation id="cancel">
         <en_us>Cancel</en_us>
         <de_de>abbrechen</de_de>
-        <ja_jp>キャンセルする</ja_jp>
+        <ja_jp>キャンセル</ja_jp>
     </translation>
     <translation id="controls">
         <en_us>Controls</en_us>
@@ -153,14 +153,14 @@
         <ja_jp>キーボードレイアウト</ja_jp>
     </translation>
     <translation id="toggleControls0">
-        <en_us>Touch controls on</en_us>
+        <en_us>Touch Controls: ON</en_us>
         <de_de>Touch-Steuerung einschalten</de_de>
-        <ja_jp>タッチスクリーン操作 オン</ja_jp>
+        <ja_jp>タッチスクリーン操作 : オン</ja_jp>
     </translation>
     <translation id="toggleControls1">
-        <en_us>Touch controls off</en_us>
+        <en_us>Touch Controls: OFF</en_us>
         <de_de>Touch-Steuerung ausschalten</de_de>
-        <ja_jp>タッチスクリーン操作 オフ</ja_jp>
+        <ja_jp>タッチスクリーン操作: オフ</ja_jp>
     </translation>
     <translation id="gamepad">
         <en_us>Gamepad</en_us>
@@ -170,82 +170,82 @@
     <translation id="gamepadConf">
         <en_us>Configure Gamepad</en_us>
         <de_de>Gamepadkonfiguration</de_de>
-        <ja_jp>ゲームパッドを設定する</ja_jp>
+        <ja_jp>ゲームパッド設定</ja_jp>
     </translation>
     <translation id="gamepadReset">
         <en_us>Reset Gamepad to Default (Xbox360)</en_us>
         <de_de>Gamepad-Standart wiederherstellen (xbox360)</de_de>
-        <ja_jp>ゲームパッドをリセットする (Xbox360)</ja_jp>
+        <ja_jp>ゲームパッド初期値リセット (Xbox360)</ja_jp>
     </translation>
     <translation id="buttonJump">
-        <en_us>Push Jump Button</en_us>
+        <en_us>Push the [Jump] Button</en_us>
         <de_de>Drücke den Springen-Knopf</de_de>
-        <ja_jp>ジャンプボタンをプレスする</ja_jp>
+        <ja_jp>[ジャンプ]ボタンを押す</ja_jp>
     </translation>
     <translation id="buttonFire">
-        <en_us>Push Melee Attack Button</en_us>
+        <en_us>Push the [Melee Attack] Button</en_us>
         <de_de>Drücke den Schlag-Knopf</de_de>
-        <ja_jp>アタックボタンをプレスする</ja_jp>
+        <ja_jp>[アタック]ボタンを押す</ja_jp>
     </translation>
     <translation id="buttonDefend">
-        <en_us>Push Barrel Shield Button</en_us>
+        <en_us>Push the [Barrel Shield] Button</en_us>
         <de_de>Drücke den Verteidigungs-Knopf</de_de>
-        <ja_jp>たるシールドボタンをプレスする</ja_jp>
+        <ja_jp>[樽シールド]ボタンを押す</ja_jp>
     </translation>
     <translation id="action">
-        <en_us>Push Inventory/Pick Up Button</en_us>
+        <en_us>Push the [Inventory/Pick Up] Button</en_us>
         <de_de>Drücke den Inventar/Aufnehmen-Knopf</de_de>
-        <ja_jp>アイテム・武器を手に入れるボタンをプレスする</ja_jp>
+        <ja_jp>[アイテム・武器を手に入れる]ボタンを押す</ja_jp>
     </translation>
     <translation id="prevItem">
-        <en_us>Push the previous Item-Button</en_us>
+        <en_us>Push the [Previous Item] Button</en_us>
         <de_de>Drücke den vorheriges Item-Knopf</de_de>
-        <ja_jp>前のアイテムボタンをプレスする</ja_jp>
+        <ja_jp>[前のアイテム]ボタンを押す</ja_jp>
     </translation>
     <translation id="nextItem">
-        <en_us>Push Next Item Button</en_us>
+        <en_us>Push the [Next Item] Button</en_us>
         <de_de>Drücke den nächstes Item-Knopf</de_de>
-        <ja_jp>次のアイテムボタンをプレスする</ja_jp>
+        <ja_jp>[次のアイテム]ボタンを押す</ja_jp>
     </translation>
     <translation id="pause">
-        <en_us>Push the Pause-Button</en_us>
+        <en_us>Push [Pause] Button</en_us>
         <de_de>Drücke den Pause-Knopf</de_de>
-        <ja_jp>一時停止ボタンをプレスする</ja_jp>
+        <ja_jp>[一時停止]ボタンを押す</ja_jp>
     </translation>
     <translation id="cursorsX">
         <en_us>Move the Left Analog Stick Left/Right</en_us>
         <de_de>Bewege den linken Analog Stick links und rechts</de_de>
-        <ja_jp>左アナログスティックを左右に移動する</ja_jp>
+        <ja_jp>左アナログスティックを左右へ引っ張る</ja_jp>
     </translation>
     <translation id="cursorsY">
         <en_us>Move Left Analog Stick Up/Down</en_us>
         <de_de>Bewege den linken Analog Stick hoch und runter</de_de>
-        <ja_jp>左アナログスティックを上下に移動する</ja_jp>
+        <ja_jp>左アナログスティックを上下へ引っ張る</ja_jp>
     </translation>
     <translation id="fireX">
         <en_us>Move Right Analog Stick Left/Right</en_us>
         <de_de>Bewege den rechten Analog Stick links und rechts</de_de>
-        <ja_jp>右アナログスティックを左右に移動する</ja_jp>
+        <ja_jp>右アナログスティックを左右へ引っ張る</ja_jp>
     </translation>
     <translation id="fireY">
         <en_us>Move Right Analog Stick Up/Down</en_us>
         <de_de>Bewege den rechten Analog Stick hoch und runter</de_de>
-        <ja_jp>右アナログスティックを上下に移動する</ja_jp>
+        <ja_jp>右アナログスティックを上下へ引っ張る</ja_jp>
     </translation>
     <translation id="effects">
-        <en_us>Effects</en_us>
+        <en_us>Graphic Effects</en_us>
         <de_de>Effekte</de_de>
-        <ja_jp>エフェクツ</ja_jp>
+        <ja_jp>グラフィックエフェクト</ja_jp>
     </translation>
     <translation id="toggleEffects0">
-        <en_us>Special Effects on</en_us>
-        <de_de>Special Effekte einschalten</de_de>
-        <ja_jp>エフェクツ オン</ja_jp>
+        <en_us>Graphic Effects: ON</en_us>
+        <de_de>Effekte einschalten</de_de>
+        <ja_jp>グラフィックエフェクト: オン</ja_jp>
     </translation>
     <translation id="toggleEffects1">
-        <en_us>Special Effects off</en_us>
-        <de_de>Special Effekte ausschalten</de_de>
-        <ja_jp>SFX オフ</ja_jp>
+        <en_us>Graphic Effects: OFF</en_us>
+        <de_de>Effekte ausschalten</de_de>
+        <ja_jp>グラフィックエフェクト: オフ</ja_jp>
     </translation>
     <translation id="renderer">
         <en_us>Rendering</en_us>
@@ -253,14 +253,14 @@
         <ja_jp>レンダリング</ja_jp>
     </translation>
     <translation id="toggleRenderer0">
-        <en_us>WebGL on</en_us>
+        <en_us>WebGL: ON</en_us>
         <de_de>WebGL einschalten</de_de>
-        <ja_jp>WebGL オン</ja_jp>
+        <ja_jp>WebGL: オン</ja_jp>
     </translation>
     <translation id="toggleRenderer1">
-        <en_us>WebGL off</en_us>
+        <en_us>WebGL: OFF</en_us>
         <de_de>WebGL ausschalten</de_de>
-        <ja_jp>WebGL オフ</ja_jp>
+        <ja_jp>WebGL: オフ</ja_jp>
     </translation>
     <translation id="resume">
         <en_us>Resume</en_us>
@@ -270,12 +270,12 @@
     <translation id="restart">
         <en_us>Restart</en_us>
         <de_de>Neustart</de_de>
-        <ja_jp>再起動</ja_jp>
+        <ja_jp>リスタート</ja_jp>
     </translation>
     <translation id="areyousure">
         <en_us>Are you sure?</en_us>
         <de_de>Sind sie sicher?</de_de>
-        <ja_jp>本当によろしですか？</ja_jp>
+        <ja_jp>本当によろしい？</ja_jp>
     </translation>
     <translation id="yes">
         <en_us>Yes</en_us>
@@ -300,7 +300,7 @@
     <translation id="resumeTurn">
         <en_us>To resume game, please switch device to landscape mode</en_us>
         <de_de>Drehe dein Gerät um fortzufahren</de_de>
-        <ja_jp>ゲームにもどるのは装置を横にして下さい</ja_jp>
+        <ja_jp>ゲームに戻るには装置を横にして下さい</ja_jp>
     </translation>
     <translation id="saving">
         <en_us>Saving...</en_us>
@@ -313,8 +313,8 @@
         <ja_jp>ゲームオーバー</ja_jp>
     </translation>
     <translation id="copyright">
-        <en_us>ShogaIX Productions. All rights reserved.</en_us>
-        <de_de>ShogaIX Productions. All rights reserved.</de_de>
-        <ja_jp>ShogaIX Productions. All rights reserved.</ja_jp>
+        <en_us>(C) Shoga9 Team. All rights reserved.</en_us>
+        <de_de>(C) Shoga9 Team. All rights reserved.</de_de>
+        <ja_jp>(C) Shoga9 Team. All rights reserved.</ja_jp>
     </translation>
 </translations>

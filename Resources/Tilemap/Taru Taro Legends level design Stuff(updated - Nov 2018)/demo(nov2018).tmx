@@ -236,7 +236,7 @@
    <property name="item" value="MosquitoCharacter"/>
   </properties>
   <object id="384" x="2632.97" y="14007.2" width="48.4848" height="42.4242"/>
-  <object id="385" x="10375.2" y="15968.8" width="63.6364" height="57.5758">
+  <object id="385" x="10199.4" y="16893" width="63.6364" height="57.5758">
    <properties>
     <property name="delay" value="6"/>
    </properties>
@@ -627,7 +627,7 @@
     <property name="type" value="cucumber_silver"/>
    </properties>
   </object>
-  <object id="653" x="2100.48" y="21977.1" width="42.4242" height="51.5152">
+  <object id="653" x="2128.48" y="22013.1" width="42.4242" height="51.5152">
    <properties>
     <property name="type" value="apple_gold"/>
    </properties>
@@ -688,7 +688,7 @@
     <property name="type" value="apple_normal"/>
    </properties>
   </object>
-  <object id="735" x="2100.48" y="22006.3" width="60" height="68">
+  <object id="735" x="2118.48" y="22067.3" width="60" height="68">
    <properties>
     <property name="type" value="watermelon_gold"/>
    </properties>

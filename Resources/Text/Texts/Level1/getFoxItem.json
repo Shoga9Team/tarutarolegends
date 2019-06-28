@@ -14,17 +14,17 @@
         },
         {
             "text": {
-                "en_us": "Look into your inventory!",
-                "de_de": "Look into your inventory!",
-                "ja_jp": "Look into your inventory!"
+                "en_us": "Take a look in the inventory.",
+                "de_de": "Take a look in the inventory.",
+                "ja_jp": "在庫を見てこい"
             }
         },
         {
             "character": "Boy",
             "text": {
-                "en_us": "yeah, the ususal...",
-                "de_de": "yeah, the ususal...",
-                "ja_jp": "yeah, the ususal..."
+                "en_us": "Hmmm... Nothing out of the ordinary.",
+                "de_de": "Hm. Nothing out of the ordinary.",
+                "ja_jp": "うん。大したこと無いんだよ。"
             },
             "inventory": {
                 "open": true
@@ -33,9 +33,9 @@
         {
             "character": "Fox",
             "text": {
-                "en_us": "Here, grab a Fox Item",
-                "de_de": "Here, grab a Fox Item",
-                "ja_jp": "Here, grab a Fox Item"
+                "en_us": "Now, try selecting the Fox item.",
+                "de_de": "Now, try selecting the Fox item.",
+                "ja_jp": "じゃあ、キツネのアイテムを使って見ろ。"
             }
         },
         {
@@ -43,17 +43,17 @@
         },
         {
             "text": {
-                "en_us": "Thank you very much! But how do I use this?",
-                "de_de": "Thank you very much! But how do I use this?",
-                "ja_jp": "Thank you very much! But how do I use this?"
+                "en_us": "Cool! So what's next?",
+                "de_de": "Cool! So what's next?",
+                "ja_jp": "スッゲ〜！今からどうするの?"
             }
         },
         {
             "character": "Fox",
             "text": {
-                "en_us": "You run up to a foo and hit the barrel button or directly click on the enemy, to take control of it.",
-                "de_de": "You run up to a foo and hit the barrel button or directly click on the enemy, to take control of it.",
-                "ja_jp": "You run up to a foo and hit the barrel button or directly click on the enemy, to take control of it."
+                "en_us": "Approach a nearby enemy and press the 'Barrel Shield' button, or directly tapping on the enemy when playing on a smartphone, to possess it.",
+                "de_de": "Approach a nearby enemy and press the 'Barrel Shield' button, or directly tapping on the enemy when playing on a smartphone, to possess it.",
+                "ja_jp": "敵を寄せて『たるシールド』ボタンをおすかスマートフォンの場合は敵を直接にタップすると所有することが出来ます。"
             }
         },
         {
@@ -78,17 +78,17 @@
         },
         {
             "text": {
-                "en_us": "Wanna have one more?",
-                "de_de": "Wanna have one more?",
-                "ja_jp": "Wanna have one more?"
+                "en_us": "Want another one?",
+                "de_de": "Would you like another one?",
+                "ja_jp": "もう一個が欲しいの?"
             }
         },
         {
             "character": "Boy",
             "text": {
-                "en_us": "mmhhhh, yes please!",
-                "de_de": "mmhhhh, yes please!",
-                "ja_jp": "mmhhhh, yes please!"
+                "en_us": "Yeah, sure!",
+                "de_de": "Yeah, sure!",
+                "ja_jp": "うん！ほしいんだよ"
             },
             "inventory": {
                 "open": true
@@ -99,9 +99,9 @@
         },
         {
             "text": {
-                "en_us": "thanks!",
-                "de_de": "thanks!",
-                "ja_jp": "thanks!"
+                "en_us": "Thanks!",
+                "de_de": "Thanks!",
+                "ja_jp": "ありがとう!"
             }
         },
         {
@@ -125,9 +125,9 @@
         },
         {
             "text": {
-                "en_us": "What again?",
-                "de_de": "What again?",
-                "ja_jp": "What again?"
+                "en_us": "What? Again?",
+                "de_de": "What? Again?",
+                "ja_jp": "What? Again?"
             }
         },
         {
@@ -146,17 +146,17 @@
         },
         {
             "text": {
-                "en_us": "thanks!",
-                "de_de": "thanks!",
-                "ja_jp": "thanks!"
+                "en_us": "Thanks again!",
+                "de_de": "Thanks again!",
+                "ja_jp": "またありがとう!"
             }
         },
         {
             "character": "Fox",
             "text": {
-                "en_us": "But this was the last one!",
-                "de_de": "But this was the last one!",
-                "ja_jp": "But this was the last one!"
+                "en_us": "That's the last one, kid!",
+                "de_de": "But this will be the last one!",
+                "ja_jp": "でもこれは最後だぜ！"
             }
         },
         {
@@ -181,9 +181,9 @@
         },
         {
             "text": {
-                "en_us": "I told ya, no more... sorry!",
-                "de_de": "I told ya, no more... sorry!",
-                "ja_jp": "I told ya, no more... sorry!"
+                "en_us": "Sorry kid, I'm all out!",
+                "de_de": "Sorry, but I'm all out!",
+                "ja_jp": "もう無いんだよ。すまん…"
             }
         }
     ],

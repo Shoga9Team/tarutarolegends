@@ -14,25 +14,41 @@
         },
         {
             "text": {
-                "en_us": "Welcome to Kimagure Forest",
+                "en_us": "Welcome to Kimagure Forest, kid",
                 "de_de": "Welcome to Kimagure Forest",
-                "ja_jp": "Welcome to Kimagure Forest"
+                "ja_jp": "気まぐれフォレストへようこそ"
             }
         },
         {
             "character": "Boy",
             "text": {
-                "en_us": "Why am I here?",
-                "de_de": "Why am I here?",
-                "ja_jp": "Why am I here?"
+                "en_us": "Okay.... But why am I here? And who are you anyway?",
+                "de_de": "Okay. But why am I here? And who are you anyway?",
+                "ja_jp": "あの…なぜここに居るんだ？ちなみに、君はだれなの？"
             }
         },
         {
             "character": "Fox",
             "text": {
-                "en_us": "I thought you wanted to play the demo game?",
-                "de_de": "I thought you wanted to play the demo game?",
-                "ja_jp": "I thought you wanted to play the demo game?"
+                "en_us": "I'm the blind fox Takumi, and you're here to test out this demo.",
+                "de_de": "I'm a blind fox named Takumi, but you're here to test out this demo.",
+                "ja_jp": "オレは目の見えないキツネのタクミだよ。タロウはこのデモを試すために居るんだ。"
+            }
+        },
+{
+            "character": "Boy",
+            "text": {
+                "en_us": "So...this is all just a game then?",
+                "de_de": "So...this is all just a game then?",
+                "ja_jp": "つまり…これはただのゲームだよね？"
+            }
+        },
+        {
+            "character": "Fox",
+            "text": {
+                "en_us": "Yup. But it's just a short demo.",
+                "de_de": "Yup. But it's just a short demo.",
+                "ja_jp": "ええ。でも、短いんだ。"
             }
         },
         {
@@ -60,49 +76,49 @@
         {
             "character": "Boy",
             "text": {
-                "en_us": "So, how do I play it?",
+                "en_us": "So, what do I do?",
                 "de_de": "So, how do I play it?",
-                "ja_jp": "So, how do I play it?"
+                "ja_jp": "じゃあ、ゲームの仕方は？"
             }
         },
         {
             "character": "Fox",
             "text": {
-                "en_us": "If you are new, you best enter the pause menu with the pause button (on Keyboards 'P') and on touch devices by clicking on yourself and then the settings symbol.",
-                "de_de": "If you are new, you best enter the pause menu with the pause button (on Keyboards 'P') and on touch devices by clicking on yourself and then the settings symbol.",
-                "ja_jp": "If you are new, you best enter the pause menu with the pause button (on Keyboards 'P') and on touch devices by clicking on yourself and then the settings symbol."
+                "en_us": "If you are new to the demo and use a gamepad, press the start button to access the pause menu. For keyboard users, press 'P' and on smartphone devices tap on yourself and then the settings icon.",
+                "de_de": "If you are new to the demo and use a gamepad, press the start button to access the pause menu. For keyboard users, press 'P' and on smartphone devices tap on yourself and then the settings icon.",
+                "ja_jp": "ゲームパッドを使う初めの方はスタートボタンをおすと、一時停止メニュへのアクセスができる。キーボードの場合は『P』をおし、スマートフォンを使う方は画面に現れるタロウを直接にタップして『設定』のアイコンもタップするんだ。"
             }
         },
         {
             "character": "Fox",
             "text": {
-                "en_us": "In the menu you click Settings -> Controls -> Layout",
-                "de_de": "In the menu you click Settings -> Controls -> Layout",
-                "ja_jp": "In the menu you click Settings -> Controls -> Layout"
+                "en_us": "In the menu select Settings -> Controls -> Layout",
+                "de_de": "In the menu select Settings -> Controls -> Layout",
+                "ja_jp": "ながれは『メニュー＞＞設定＞＞操作＞＞レイアウト』"
             }
         },
         {
             "character": "Boy",
             "text": {
-                "en_us": "So there I can figure out the buttons but how do I fight off possible threats?",
-                "de_de": "So there I can figure out the buttons but how do I fight off possible threats?",
-                "ja_jp": "So there I can figure out the buttons but how do I fight off possible threats?"
+                "en_us": "Alright. Are we the only ones here? ",
+                "de_de": "Alright. Are we the only ones here? ",
+                "ja_jp": "わかった。ここには二人きりだよね？"
             }
         },
         {
             "character": "Fox",
             "text": {
-                "en_us": "That is quite easy. Climb on trees and search the map at every possible corner for weapons and powerups to your advantage.",
-                "de_de": "That is quite easy. Climb on trees and search the map at every possible corner for weapons and powerups to your advantage.",
-                "ja_jp": "That is quite easy. Climb on trees and search the map at every possible corner for weapons and powerups to your advantage."
+                "en_us": "Actually, this forest has some dangerous creatures to watch out for, so you should explore the area and look for weapons or items to help you fight them off.",
+                "de_de": "Actually, this forest has some dangerous creatures to watch out for, so you should explore the area and look for weapons or items to help you fight them off.",
+                "ja_jp": "実はこのフォレストに危険な生き物が居るので、自分を守るためにフォレストに武器やアイテムを探った方が良い。"
             }
         },
         {
             "character": "Boy",
             "text": {
-                "en_us": "Alright, thank you!",
-                "de_de": "Alright, thank you!",
-                "ja_jp": "Alright, thank you!"
+                "en_us": "Gotcha. Thanks!",
+                "de_de": "Gotcha. Thank you!",
+                "ja_jp": "はい、りょうかい。ありがとう。"
             }
         }
     ],
