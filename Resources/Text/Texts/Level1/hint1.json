@@ -14,97 +14,60 @@
         },
         {
             "text": {
-                "en_us": "Hin1 step0 text",
-                "de_de": "Hin1 step0 text",
-                "ja_jp": "Hin1 step0 text"
-            }
-        },
-        {
-            "character": "Boy",
-            "text": {
-                "en_us": "Why am I here?",
-                "de_de": "Why am I here?",
-                "ja_jp": "Why am I here?"
+                "en_us": "If you see a rope or vine, you can climb it by pressing A on your gamepad, SPACE on your keyboard, or tapping the Jump icon on the touchscreen of your mobile device, then press up using the DPad or Keyboard arrows.",
+                "de_de": "If you see a rope or vine, you can climb it by jumping at it and press the up button.",
+                "ja_jp": "ロープやつる草を見つけるときにはゲームパッドで『A』のボタン/キーボードで『Q』のキー/スマートフォンでジャンプボタンなどをおしてからすぐにゲームパッドの左アナログスティックは上へ/キーボードの上矢印キー/スマートフォンの十字キーの上ボタンをおすと登ることができます。"
             }
         },
         {
             "character": "Fox",
             "text": {
-                "en_us": "I thought you wanted to play the demo game?",
-                "de_de": "I thought you wanted to play the demo game?",
-                "ja_jp": "I thought you wanted to play the demo game?"
-            }
-        },
-        {
-            "ref": "how"
-        }
-    ],
-    "steps1": [
-        {
-            "character": "Boy",
-            "inventory": {
-                "close": true
-            }
-        },
-        {
-            "character": "Fox"
-        },
-        {
-            "ref": "foxOut"
-        },
-        {
-            "ref": "how"
-        }
-    ],
-    "how": [
-        {
-            "character": "Boy",
-            "text": {
-                "en_us": "Hint1 repeated text",
-                "de_de": "Hint1 repeated text",
-                "ja_jp": "Hint1 repeated text"
+                "en_us": "If you haven't figured it out by now, you can also use the Barrel Shield to protect you from enemies and obstacles by pressing B on the gamepad, Q on the keyboard, or the Barrel Shield icon on the touchscreen of your mobile device. To get out of the Barrel Shield, simply release the button.",
+                "de_de": "If you haven't figured it out by now, you can also use the Barrel Shield to protect you from enemies and obstacles. To get out of the Barrel Shield, simply release the button.",
+                "ja_jp": "もし今まで分かってこなかった場合はたるシールドを使うと敵やぼう害から守るのはゲームパッドで『B』/キーボードで『SPACE』/スマートフォンでたるシールドボタンなどをおします。たるシールドから出るときにはボタンを放します。"
             }
         },
         {
             "character": "Fox",
             "text": {
-                "en_us": "If you are new, you best enter the pause menu with the pause button (on Keyboards 'P') and on touch devices by clicking on yourself and then the settings symbol.",
-                "de_de": "If you are new, you best enter the pause menu with the pause button (on Keyboards 'P') and on touch devices by clicking on yourself and then the settings symbol.",
-                "ja_jp": "If you are new, you best enter the pause menu with the pause button (on Keyboards 'P') and on touch devices by clicking on yourself and then the settings symbol."
+                "en_us": "Also don't forget that you can throw weapons and items at enemies. On the Gamepad, move the right analog stick to aim, then release to throw.",
+                "de_de": "Also don't forget that you can throw weapons and items at enemies. Move the right analog stick to aim, then release to throw.",
+                "ja_jp": "さらにゲームパッドで右アナログスティックで好きな方向に向ける上、放すと武器/アイテムを敵に投げます。"
             }
         },
         {
             "character": "Fox",
             "text": {
-                "en_us": "In the menu you click Settings -> Controls -> Layout",
-                "de_de": "In the menu you click Settings -> Controls -> Layout",
-                "ja_jp": "In the menu you click Settings -> Controls -> Layout"
-            }
-        },
-        {
-            "character": "Boy",
-            "text": {
-                "en_us": "So there I can figure out the buttons but how do I fight off possible threats?",
-                "de_de": "So there I can figure out the buttons but how do I fight off possible threats?",
-                "ja_jp": "So there I can figure out the buttons but how do I fight off possible threats?"
+                "en_us": "On the keyboard, A and D are left and right, while W and S are up and down, so you can press the keys to aim, and release to throw. You can even throw weapons and items diagonally by pressing the corresponding buttons.",
+                "de_de": "On the keyboard, A and D are left and right, while W and S are up and down, so you can press the keys to aim, and release to throw. You can even throw weapons and items diagonally by pressing the corresponding buttons.",
+                "ja_jp": "キーボードでAとDのキーは左と右、WとSとは上下なので、キーをおして放すと決めた方向に武器/アイテムを投げます。もちろん、ある武器やアイテムはしゃせんに投げるときには右上/右下/左上/左下を同時におします。"
             }
         },
         {
             "character": "Fox",
             "text": {
-                "en_us": "That is quite easy. Climb on trees and search the map at every possible corner for weapons and powerups to your advantage.",
-                "de_de": "That is quite easy. Climb on trees and search the map at every possible corner for weapons and powerups to your advantage.",
-                "ja_jp": "That is quite easy. Climb on trees and search the map at every possible corner for weapons and powerups to your advantage."
+                "en_us": "On mobile devices, a weapon/item icon will appear on the top right corner of the screen. Tap and swipe to aim, and release to throw.",
+                "de_de": "On mobile devices, a weapon/item icon will appear on the top right corner of the screen. Tap and swipe to aim, and release to throw.",
+                "ja_jp": "スマートフォンの画面の上右に武器/アイテムのアイコンが表示しますので、アイコンをタップと好きな方向にスワイプしてから放すと武器/アイテムを投げます。"
             }
         },
         {
             "character": "Boy",
             "text": {
-                "en_us": "Alright, thank you!",
-                "de_de": "Alright, thank you!",
-                "ja_jp": "Alright, thank you!"
+                "en_us": "That sounds like a lot... but will I be able to attack enemies while I'm in the barrel?",
+                "de_de": "That sounds like a lot... but will I be able to attack enemies while I'm in the barrel?",
+                "ja_jp": "わぁ〜かなり大変そうだよね…でも、たるシールドに入ったままで敵を倒せるのか？"
+            }
+        },
+        {
+            "character": "Fox",
+            "text": {
+                "en_us": "I'll let you figure that out on your own, kid!",
+                "de_de": "I'll let you figure that out on your own, kid!",
+                "ja_jp": "それは君に任せるぞ！"
             }
         }
+
     ],
     "foxOut": [
         {
