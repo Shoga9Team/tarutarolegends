@@ -132,13 +132,13 @@
         {
             "controls": {
                 "cursors.walkTo": true,
-                "duration": 50
+                "duration": 80
             }
         },
         {
             "controls": {
                 "cursors.down": true,
-                "duration": 50
+                "duration": 80
             }
         }
     ]

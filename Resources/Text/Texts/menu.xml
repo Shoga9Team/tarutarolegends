@@ -8,7 +8,7 @@
     <translation id="shareTitle">
         <en_us>Taru Taro Legends</en_us>
         <de_de>Taru Taro Legends</de_de>
-        <ja_jp>タルタロウ物語</ja_jp>
+        <ja_jp>たるタロウ物語</ja_jp>
     </translation>
     <translation id="shareText">
         <en_us>Play Demo in Browser</en_us>
@@ -26,14 +26,14 @@
         <ja_jp>Android上で 全画面するには PWAとして インストールして ください。</ja_jp>
     </translation>
     <translation id="iOS">
-        <en_us>If you can not enter fullscreen mode, use Safari and turn the device from portrait mode to landscape mode to hide the address bar.</en_us>
-        <de_de>Wenn Sie nicht in den Vollbildmodus umschalten können, benutzen Sie Safari und wenden das Gerät von horizontal zu vertikal um die Adressleiste aus zu blenden.</de_de>
-        <ja_jp>注意: iPhoneでSafariまたはChromeの ブラウザを使用する際, 全画面表示中にも アドレスバーを表示する問題を発見し, 画面上部に表示される在庫 メニューを見えなくなってしまうため, あいにくSafari のみ問題解決としては iPhone自体を縦から横に動かすと アドレスバーを非表示に することができます。</ja_jp>
+        <en_us>NOTE: The address bar will appear and conceal parts of the game on fullscreen mode, so we recommend using Safari and switch the device from portrait mode to landscape mode to remove it.</en_us>
+        <de_de>Hinweis: Wenn Sie nicht in den Vollbildmodus umschalten können, benutzen Sie Safari und wenden das Gerät von horizontal zu vertikal um die Adressleiste aus zu blenden.</de_de>
+        <ja_jp>注意：全画面表示中に アドレスバーがゲームの 一部を見えなくなるため, Safariを使用する上スマートフォン 自体を縦から横に動かすと アドレスバーを 非表示にすることができます。</ja_jp>
     </translation>
     <translation id="fps">
-        <en_us>If you experience issues during gameplay, it may be that your device/browser is struggling to render at a stable frame rate, so we recommend enabling/disabling WebGL by going to Settings->Rendering->WebGL, or play with another device/browser.</en_us>
+        <en_us>If you experience issues during gameplay, your device/browser may be struggling to render at a stable frame rate, so we recommend enabling/disabling WebGL by going to Settings->Rendering->WebGL, or use another device/browser.</en_us>
         <de_de>Dein Gerät hat Probleme eine stabile Bildrate zu halten. Ignoriere diese Nachricht, wenn es für Dich okay läuft. Ansonsten kannst du im Hauptmenü die Einstellungen->Renderer->WebGL anpassen oder mit einem anderen Gerät/Browser spielen.</de_de>
-        <ja_jp>ゲームプレイ中に問題が発生するときには, 使用されるデバイスあるいは ブラウザには安定した フレームレートをレンダリングすることが 苦労する可能性が ありますので メニューに設定 → レンダリング → WebGL入切 を調整するかあるいは他の デバイスやブラウザを 使用するのをおすすめします。 </ja_jp>
+        <ja_jp>ゲームプレイ中に問題が発生するときには, 使用されるデバイスもしくは ブラウザには安定した フレームレートをレンダリングすることが 苦労する可能性がありますので メニューに設定 → レンダリング → WebGL入切を調整するか他の デバイスやブラウザを使用するのを おすすめします。</ja_jp>
     </translation>
     <translation id="startTestLevel1">
         <en_us>Start AI Test Level</en_us>
@@ -195,7 +195,7 @@
     <translation id="action">
         <en_us>Push the [Inventory/Pick Up] Button</en_us>
         <de_de>Drücke den Inventar/Aufnehmen-Knopf</de_de>
-        <ja_jp>[アイテム・武器を手に入れる] ボタンをおす</ja_jp>
+        <ja_jp>[アイテム・武器を手に入れる]ボタンをおす</ja_jp>
     </translation>
     <translation id="prevItem">
         <en_us>Push the [Previous Item] Button</en_us>
@@ -215,22 +215,22 @@
     <translation id="cursorsX">
         <en_us>Move the Left Analog Stick Left/Right</en_us>
         <de_de>Bewege den linken Analog Stick links und rechts</de_de>
-        <ja_jp>左アナログスティックを 左右へ引っ張る</ja_jp>
+        <ja_jp>左アナログスティックを左右へ引っ張る</ja_jp>
     </translation>
     <translation id="cursorsY">
         <en_us>Move Left Analog Stick Up/Down</en_us>
         <de_de>Bewege den linken Analog Stick hoch und runter</de_de>
-        <ja_jp>左アナログスティックを 上下へ引っ張る</ja_jp>
+        <ja_jp>左アナログスティックを上下へ引っ張る</ja_jp>
     </translation>
     <translation id="fireX">
         <en_us>Move Right Analog Stick Left/Right</en_us>
         <de_de>Bewege den rechten Analog Stick links und rechts</de_de>
-        <ja_jp>右アナログスティックを 左右へ引っ張る</ja_jp>
+        <ja_jp>右アナログスティックを左右へ引っ張る</ja_jp>
     </translation>
     <translation id="fireY">
         <en_us>Move Right Analog Stick Up/Down</en_us>
         <de_de>Bewege den rechten Analog Stick hoch und runter</de_de>
-        <ja_jp>右アナログスティックを 上下へ引っ張る</ja_jp>
+        <ja_jp>右アナログスティックを上下へ引っ張る</ja_jp>
     </translation>
     <translation id="effects">
         <en_us>Graphic Effects</en_us>
@@ -304,7 +304,7 @@
     </translation>
     <translation id="saving">
         <en_us>Saving...</en_us>
-        <de_de>Speichern... Bitte warte einen Moment!</de_de>
+        <de_de>Speichern...</de_de>
         <ja_jp>保存中</ja_jp>
     </translation>
     <translation id="GameOver">

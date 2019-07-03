@@ -195,19 +195,19 @@
         {
             "controls": {
                 "cursors.walkAwayFrom": true,
-                "duration": 1500
+                "duration": 1400
             }
         },
         {
             "controls": {
                 "cursors.walkTo": true,
-                "duration": 50
+                "duration": 80
             }
         },
         {
             "controls": {
                 "cursors.down": true,
-                "duration": 50
+                "duration": 80
             }
         }
     ],
