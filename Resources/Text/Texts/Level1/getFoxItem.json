@@ -16,7 +16,7 @@
             "text": {
                 "en_us": "Take a look in the inventory.",
                 "de_de": "Schaue in dein Inventar.",
-                "ja_jp": "在庫を見てこい"
+                "ja_jp": "在庫を見てこい。"
             }
         },
         {
@@ -24,7 +24,7 @@
             "text": {
                 "en_us": "Hmmm... Nothing out of the ordinary.",
                 "de_de": "Hmmm... Nichts Spezielles.",
-                "ja_jp": "うん。 大したこと無いんだよ。"
+                "ja_jp": "うん、大したこと 無いんだよ。"
             },
             "inventory": {
                 "open": true
@@ -38,7 +38,7 @@
             "text": {
                 "en_us": "Now, try selecting the Fox item.",
                 "de_de": "Nun, wähle den Fuchsgegenstand aus.",
-                "ja_jp": "じゃあ, キツネのアイテムを使って見ろ。"
+                "ja_jp": "じゃあ、キツネの アイテムを使って 見ろよ。"
             }
         },
         {
@@ -46,7 +46,7 @@
             "text": {
                 "en_us": "Cool! So what's next?",
                 "de_de": "Cool! Doch was soll ich nun?",
-                "ja_jp": "スッゲ〜! 今からどうするの?"
+                "ja_jp": "スッゲー! 今からどうするの?"
             },
             "inventory": {
                 "active": "FoxItem"
@@ -57,7 +57,7 @@
             "text": {
                 "en_us": "Approach a nearby enemy and press the 'Barrel Shield' button, or directly tapping on the enemy when playing on a smartphone, to possess it.",
                 "de_de": "Gehe als Fuchs nahe an einen Gegner und drücke das Fass (Schield), oder drücke direkt auf den Gegner wenn du mit dem Smartphone spielst, um den Gegner zu besitzen.",
-                "ja_jp": "敵を寄せて 『たるシールド』 ボタンをおすかスマートフォンの 場合は敵を直接に タップすると 所有することが 出来ます。"
+                "ja_jp":"敵を寄せて たるシールドボタンを おすかスマート フォンの場合は 敵を直接にタップ すると所有することが 出来ます。"
             }
         },
         {
@@ -84,7 +84,7 @@
             "text": {
                 "en_us": "Want another one?",
                 "de_de": "Willst du einen mehr?",
-                "ja_jp": "もう一 個が欲しいの?"
+                "ja_jp": "もう一個が 欲しいのか?"
             }
         },
         {
