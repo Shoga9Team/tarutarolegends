@@ -16,9 +16,9 @@
         <ja_jp>敵を所有中の殺し:</ja_jp>
     </translation>
     <translation id="items">
-        <en_us>Items Collected:</en_us>
+        <en_us>Unused Items/Weapons Collected:</en_us>
         <de_de>Eingesammelte Gegenstände:</de_de>
-        <ja_jp>拾ったアイテム・武器:</ja_jp>
+        <ja_jp>拾って使用なしアイテム・武器:</ja_jp>
     </translation>
     <translation id="health">
         <en_us>Remaining HP:</en_us>
