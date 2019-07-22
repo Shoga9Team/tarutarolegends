@@ -21,7 +21,7 @@
         <ja_jp>全画面表示するには 赤い矢印を スワイプしてアドレスバー を非表示します。</ja_jp>
     </translation>
     <translation id="android">
-        <en_us>Install game as PWA on Android to enter fullscreen.</en_us>
+        <en_us>Install game as PWA on Android to enter fullscreen mode.</en_us>
         <de_de>Installieren Sie dieses Spiel als PWA auf Android um auf Vollbild umzuschalten.</de_de>
         <ja_jp>Android上で 全画面するには PWAとして インストールして ください。</ja_jp>
     </translation>
