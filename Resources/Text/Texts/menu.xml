@@ -153,12 +153,12 @@
         <ja_jp>キーボードレイアウト</ja_jp>
     </translation>
     <translation id="toggleControls0">
-        <en_us>Touch Controls: ON</en_us>
+        <en_us>Touch Screen Controls: ON</en_us>
         <de_de>Touch-Steuerung einschalten</de_de>
         <ja_jp>タッチスクリーン操作 : 入</ja_jp>
     </translation>
     <translation id="toggleControls1">
-        <en_us>Touch Controls: OFF</en_us>
+        <en_us>Touch Screen Controls: OFF</en_us>
         <de_de>Touch-Steuerung ausschalten</de_de>
         <ja_jp>タッチスクリーン操作: 切</ja_jp>
     </translation>
