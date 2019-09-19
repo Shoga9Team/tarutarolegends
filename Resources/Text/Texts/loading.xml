@@ -4,6 +4,7 @@
         <en_us>Now Loading...</en_us>
         <de_de>Am laden...</de_de>
         <ja_jp>ローディング中...</ja_jp>
+        <es_es>Cargando...</es_es>
     </translation>
     <translation id="loadingSound">
         <en_us>x of y sounds...</en_us>

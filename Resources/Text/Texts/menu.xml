@@ -4,6 +4,7 @@
         <en_us>Share</en_us>
         <de_de>Teilen</de_de>
         <ja_jp>シェアする</ja_jp>
+	    <es_es>Compartir</es_es>
     </translation>
     <translation id="shareTitle">
         <en_us>Taru Taro Legends</en_us>
@@ -14,41 +15,49 @@
         <en_us>Play Demo in Browser</en_us>
         <de_de>Spiele die Demo in deinem Browser</de_de>
         <ja_jp>ゲームをブラウザで実行</ja_jp>
+	    <es_es>Probar Demo por el Browser</es_es>
     </translation>
     <translation id="scrollIconHint">
         <en_us>Swipe red arrows to remove address bar to enter fullscreen mode</en_us>
         <de_de>Benutze die roten Pfeile um die Adressleiste weg zu scrollen und Vollbildmodus einzuschalten</de_de>
         <ja_jp>全画面表示するには 赤い矢印を スワイプしてアドレスバー を非表示します。</ja_jp>
+	    <es_es>Deslice la flecha roja para quitar la barra de direcciones y utilizar el modo de pantalla completa.</es_es>
     </translation>
     <translation id="android">
         <en_us>Install game as PWA on Android to enter fullscreen mode.</en_us>
         <de_de>Installieren Sie dieses Spiel als PWA auf Android um auf Vollbild umzuschalten.</de_de>
         <ja_jp>Android上で 全画面するには PWAとして インストールして ください。</ja_jp>
+	    <es_es>Instale el juegovideo como PWA en Android para utilizar el modo de pantalla completa.</es_es>
     </translation>
     <translation id="iOS">
         <en_us>NOTE: The address bar will appear and conceal parts of the game on fullscreen mode, so we recommend using Safari and switch the device from portrait mode to landscape mode to remove it.</en_us>
         <de_de>Hinweis: Wenn Sie nicht in den Vollbildmodus umschalten können, benutzen Sie Safari und wenden das Gerät von horizontal zu vertikal um die Adressleiste aus zu blenden.</de_de>
         <ja_jp>注意：全画面表示中に アドレスバーがゲームの 一部を見えなくなるため, Safariを使用する上スマートフォン 自体を縦から横に動かすと アドレスバーを 非表示にすることができます。</ja_jp>
+	    <es_es>Aviso: La barra de direcciones aparecerá y ocultará parte del juegovideo durante el modo de pantalla completa, y recomendemos usar Safari y gire el smartphone para quitarla.</es_es>
     </translation>
     <translation id="fps">
         <en_us>If you experience issues during gameplay, your device/browser may be struggling to render at a stable frame rate, so we recommend enabling/disabling WebGL by going to Settings->Rendering->WebGL, or use another device/browser.</en_us>
         <de_de>Dein Gerät hat Probleme eine stabile Bildrate zu halten. Ignoriere diese Nachricht, wenn es für Dich okay läuft. Ansonsten kannst du im Hauptmenü die Einstellungen->Renderer->WebGL anpassen oder mit einem anderen Gerät/Browser spielen.</de_de>
         <ja_jp>ゲームプレイ中に問題が発生するときには, 使用されるデバイスもしくは ブラウザには安定した フレームレートをレンダリングすることが 苦労する可能性がありますので メニューに設定 → レンダリング → WebGL入切を調整するか他の デバイスやブラウザを使用するのを おすすめします。</ja_jp>
+	    <es_es>Si hay problemas durante el juego, quizás su smartphone/browser tendrá dificultades procesar los datos en una velocidad fija, y recomendemos que configure WebGL en el menú (Ajustes > Rendering > WebGL), o use otro smartphone/browser.</es_es>
     </translation>
     <translation id="startTestLevel1">
         <en_us>Start AI Test Level</en_us>
         <de_de>AI Test Level starten</de_de>
         <ja_jp>人工知能テストレベル開始</ja_jp>
+	    <es_es>Empezar AI Test Level</es_es>
     </translation>
     <translation id="startTestAiMosquitoLevel1">
         <en_us>Start Test Mosquito AI Level</en_us>
         <de_de>Test AI Mosquito Level starten</de_de>
         <ja_jp>テストレベル (AI Mosquito)</ja_jp>
+	    <es_es>Empezar Test Mosquito AI Level</es_es>
     </translation>
     <translation id="startTestTileMapLevel1">
         <en_us>Start Test Tile Map Level</en_us>
         <de_de>Test Tile Map Level starten</de_de>
         <ja_jp>人工知能テストレベル(Tile Map)開始</ja_jp>
+	    <es_es>Empezar Test Tile Map Level</es_es>
     </translation>
     <translation id="startLevel1">
         <!--<en_us>Start Level 1</en_us>
@@ -56,265 +65,324 @@
         <en_us>Start Demo</en_us>
         <de_de>Demo Starten</de_de>
         <ja_jp>ゲーム開始</ja_jp>
+	    <es_es>Empezar Demo</es_es>
     </translation>
     <translation id="testLevels">
         <en_us>Test Levels</en_us>
         <de_de>Test Levels</de_de>
         <ja_jp>テストレベル</ja_jp>
+	    <es_es>Test Levels</es_es>
     </translation>
     <translation id="diverse">
         <en_us>Diverse</en_us>
         <de_de>Diverse</de_de>
         <ja_jp>多様</ja_jp>
+	    <es_es>Diverso</es_es>
     </translation>
     <translation id="ai">
         <en_us>AI</en_us>
         <de_de>AI</de_de>
         <ja_jp>人工知能</ja_jp>
+	    <es_es>AI</es_es>
     </translation>
     <translation id="loadGame">
         <en_us>Load Game</en_us>
         <de_de>Spiel laden</de_de>
         <ja_jp>ロードゲーム</ja_jp>
+	    <es_es>Cargar Juego</es_es>
     </translation>
     <translation id="saveGame">
         <en_us>Save Game</en_us>
         <de_de>Spiel speichern</de_de>
         <ja_jp>ゲーム保存</ja_jp>
+	    <es_es>Guardar Juego</es_es>
     </translation>
     <translation id="emptySlot">
         <en_us>Empty Slot</en_us>
         <de_de>Freier Speicherplatz</de_de>
         <ja_jp>空きスロット</ja_jp>
+	    <es_es>Espacio Libre</es_es>
     </translation>
     <translation id="settings">
         <en_us>Settings</en_us>
         <de_de>Einstellungen</de_de>
         <ja_jp>設定</ja_jp>
+	    <es_es>Ajustes</es_es>
     </translation>
     <translation id="language">
         <en_us>Language</en_us>
         <de_de>Sprache</de_de>
         <ja_jp>言語</ja_jp>
+	    <es_es>Idioma</es_es>
     </translation>
     <translation id="english">
         <en_us>English</en_us>
         <de_de>English</de_de>
         <ja_jp>English</ja_jp>
+	    <es_es>English</es_es>
     </translation>
     <translation id="japanese">
         <en_us>Japanese</en_us>
         <de_de>Japanese</de_de>
         <ja_jp>日本語</ja_jp>
+	    <es_es>Japanese</es_es>
     </translation>
     <translation id="japaneseSpecialChar">
         <en_us>日本語</en_us>
         <de_de>日本語</de_de>
         <ja_jp>日本語</ja_jp>
+	    <es_es>日本語</es_es>
     </translation>
     <translation id="german">
         <en_us>Deutsch</en_us>
         <de_de>Deutsch</de_de>
         <ja_jp>Deutsch</ja_jp>
+	    <es_es>Deutsch</es_es>
+    </translation>
+    <translation id="spanish">
+        <en_us>Espanol</en_us>
+        <de_de>Español</de_de>
+        <ja_jp>Espanol</ja_jp>
+	    <es_es>Español</es_es>
     </translation>
     <translation id="back">
         <en_us>Back</en_us>
         <de_de>zurück</de_de>
         <ja_jp>もどる</ja_jp>
+	    <es_es>Regresar</es_es>
     </translation>
     <translation id="cancel">
         <en_us>Cancel</en_us>
         <de_de>abbrechen</de_de>
         <ja_jp>キャンセル</ja_jp>
+	    <es_es>Anular</es_es>
     </translation>
     <translation id="controls">
         <en_us>Controls</en_us>
         <de_de>Steuerung</de_de>
         <ja_jp>操作</ja_jp>
+	    <es_es>Controles</es_es>
     </translation>
     <translation id="controlslayout">
         <en_us>Control Layout</en_us>
         <de_de>Steuerunglayouts</de_de>
         <ja_jp>操作レイアウト</ja_jp>
+	    <es_es>Diagrama de los Controles</es_es>
     </translation>
     <translation id="toggleControlsLayoutGamepad">
         <en_us>Gamepad Layout</en_us>
         <de_de>Gamepadlayout</de_de>
         <ja_jp>ゲームパッドレイアウト</ja_jp>
+	    <es_es>Diagrama del Gamepad</es_es>
     </translation>
     <translation id="toggleControlsLayoutTouch">
         <en_us>Touch Screen Layout</en_us>
         <de_de>Touchlayout</de_de>
         <ja_jp>タッチスクリーンレイアウト</ja_jp>
+	    <es_es>Diagrama de la pantalla Táctil</es_es>
     </translation>
     <translation id="toggleControlsLayoutKeyboard">
         <en_us>Keyboard Layout</en_us>
         <de_de>Keyboardlayout</de_de>
         <ja_jp>キーボードレイアウト</ja_jp>
+	    <es_es>Diagrama del Teclado</es_es>
     </translation>
     <translation id="toggleControls0">
         <en_us>Touch Screen Controls: ON</en_us>
         <de_de>Touch-Steuerung einschalten</de_de>
         <ja_jp>タッチスクリーン操作 : 入</ja_jp>
+	    <es_es>Controles de la Pantalla Táctil: Activado</es_es>
     </translation>
     <translation id="toggleControls1">
         <en_us>Touch Screen Controls: OFF</en_us>
         <de_de>Touch-Steuerung ausschalten</de_de>
         <ja_jp>タッチスクリーン操作: 切</ja_jp>
+	    <es_es>Controles de la Pantalla Táctil: Desctivado</es_es>
     </translation>
     <translation id="gamepad">
         <en_us>Gamepad</en_us>
         <de_de>Gamepad</de_de>
         <ja_jp>ゲームパッド</ja_jp>
+	    <es_es>Gamepad</es_es>
     </translation>
     <translation id="gamepadConf">
         <en_us>Configure Gamepad</en_us>
         <de_de>Gamepadkonfiguration</de_de>
         <ja_jp>ゲームパッド設定</ja_jp>
+	    <es_es>Configure Gamepad</es_es>
     </translation>
     <translation id="gamepadReset">
         <en_us>Reset Gamepad to Default (Xbox360)</en_us>
         <de_de>Gamepad-Standart wiederherstellen (xbox360)</de_de>
         <ja_jp>ゲームパッド初期値リセット (Xbox360)</ja_jp>
+	    <es_es>Restablecer Configuración del Gamepad por Defecto (Xbox 360)</es_es>
     </translation>
     <translation id="buttonJump">
         <en_us>Push the [Jump] Button</en_us>
         <de_de>Drücke den Springen-Knopf</de_de>
         <ja_jp>[ジャンプ]ボタンをおす</ja_jp>
+	    <es_es>Pulsar el botón (Saltar)</es_es>
     </translation>
     <translation id="buttonFire">
         <en_us>Push the [Melee Attack] Button</en_us>
         <de_de>Drücke den Schlag-Knopf</de_de>
         <ja_jp>[アタック]ボタンをおす</ja_jp>
+	    <es_es>Pulsar el botón (Atacar)</es_es>
     </translation>
     <translation id="buttonDefend">
         <en_us>Push the [Barrel Shield] Button</en_us>
         <de_de>Drücke den Verteidigungs-Knopf</de_de>
         <ja_jp>[たるシールド]ボタンをおす</ja_jp>
+	    <es_es>Pulsar el botón (Escudo Barril)</es_es>
     </translation>
     <translation id="action">
         <en_us>Push the [Inventory/Pick Up] Button</en_us>
         <de_de>Drücke den Inventar/Aufnehmen-Knopf</de_de>
         <ja_jp>[アイテム・武器を手に入れる]ボタンをおす</ja_jp>
+	    <es_es>Pulsar el botón (Inventario/Coger Artículo o Arma)</es_es>
     </translation>
     <translation id="prevItem">
         <en_us>Push the [Previous Item] Button</en_us>
         <de_de>Drücke den vorheriges Item-Knopf</de_de>
         <ja_jp>[前のアイテム]ボタンをおす</ja_jp>
+	    <es_es>Pulsar el botón (Artículo Anterior)</es_es>
     </translation>
     <translation id="nextItem">
         <en_us>Push the [Next Item] Button</en_us>
         <de_de>Drücke den nächstes Item-Knopf</de_de>
         <ja_jp>[次のアイテム]ボタンをおす</ja_jp>
+	    <es_es>Pulsar el botón (Artículo próximo)</es_es>
     </translation>
     <translation id="pause">
         <en_us>Push [Pause] Button</en_us>
         <de_de>Drücke den Pause-Knopf</de_de>
         <ja_jp>[一時停止]ボタンをおす</ja_jp>
+	    <es_es>Pulsar el botón (Pausa)</es_es>
     </translation>
     <translation id="cursorsX">
         <en_us>Move the Left Analog Stick Left/Right</en_us>
         <de_de>Bewege den linken Analog Stick links und rechts</de_de>
         <ja_jp>左アナログスティックを左右へ引っ張る</ja_jp>
+	    <es_es>Girar el stick analógico izquierdo horizontalmente</es_es>
     </translation>
     <translation id="cursorsY">
         <en_us>Move Left Analog Stick Up/Down</en_us>
         <de_de>Bewege den linken Analog Stick hoch und runter</de_de>
         <ja_jp>左アナログスティックを上下へ引っ張る</ja_jp>
+	    <es_es>Girar el stick analógico izquierdo verticalmente</es_es>
     </translation>
     <translation id="fireX">
         <en_us>Move Right Analog Stick Left/Right</en_us>
         <de_de>Bewege den rechten Analog Stick links und rechts</de_de>
         <ja_jp>右アナログスティックを左右へ引っ張る</ja_jp>
+	    <es_es>Girar el stick analógico derecho horizontalmente</es_es>
     </translation>
     <translation id="fireY">
         <en_us>Move Right Analog Stick Up/Down</en_us>
         <de_de>Bewege den rechten Analog Stick hoch und runter</de_de>
         <ja_jp>右アナログスティックを上下へ引っ張る</ja_jp>
+	    <es_es>Girar el stick analógico derecho verticalmente</es_es>
     </translation>
     <translation id="effects">
         <en_us>Graphic Effects</en_us>
         <de_de>Effekte</de_de>
         <ja_jp>グラフィックエフェクト</ja_jp>
+	    <es_es>Efectos Gráficos</es_es>
     </translation>
     <translation id="toggleEffects0">
         <en_us>Graphic Effects: ON</en_us>
         <de_de>Effekte einschalten</de_de>
         <ja_jp>グラフィックエフェクト: 入</ja_jp>
+	    <es_es>Efectos Gráficos: Activado</es_es>
     </translation>
     <translation id="toggleEffects1">
         <en_us>Graphic Effects: OFF</en_us>
         <de_de>Effekte ausschalten</de_de>
         <ja_jp>グラフィックエフェクト: 切</ja_jp>
+	    <es_es>Efectos Gráficos: Desactivado</es_es>
     </translation>
     <translation id="renderer">
         <en_us>Rendering</en_us>
         <de_de>Renderer</de_de>
         <ja_jp>レンダリング</ja_jp>
+	    <es_es>Rendering</es_es>
     </translation>
     <translation id="toggleRenderer0">
         <en_us>WebGL: ON</en_us>
         <de_de>WebGL einschalten</de_de>
         <ja_jp>WebGL: 入</ja_jp>
+	    <es_es>WebGL: Activado</es_es>
     </translation>
     <translation id="toggleRenderer1">
         <en_us>WebGL: OFF</en_us>
         <de_de>WebGL ausschalten</de_de>
         <ja_jp>WebGL: 切</ja_jp>
+	    <es_es>WebGL: Desactivado</es_es>
     </translation>
     <translation id="resume">
         <en_us>Resume</en_us>
         <de_de>Fortsetzen</de_de>
         <ja_jp>もどる</ja_jp>
+	    <es_es>Reanudar</es_es>
     </translation>
     <translation id="restart">
         <en_us>Restart</en_us>
         <de_de>Neustart</de_de>
         <ja_jp>リスタート</ja_jp>
+	    <es_es>Reiniciar</es_es>
     </translation>
     <translation id="areyousure">
         <en_us>Are you sure?</en_us>
         <de_de>Sind sie sicher?</de_de>
         <ja_jp>本当によろしい？</ja_jp>
+	    <es_es>¿Estas seguro?</es_es>
     </translation>
     <translation id="yes">
         <en_us>Yes</en_us>
         <de_de>Ja</de_de>
         <ja_jp>はい</ja_jp>
+	    <es_es>Si</es_es>
     </translation>
     <translation id="no">
         <en_us>No</en_us>
         <de_de>Nein</de_de>
         <ja_jp>いいえ</ja_jp>
+	    <es_es>No</es_es>
     </translation>
     <translation id="continue">
         <en_us>Continue</en_us>
         <de_de>Weiter</de_de>
         <ja_jp>つづく</ja_jp>
+	    <es_es>Continuar</es_es>
     </translation>
     <translation id="mainMenu">
         <en_us>Main Menu</en_us>
         <de_de>Hauptmenü</de_de>
         <ja_jp>メインメニュー</ja_jp>
+	    <es_es>Menú Principal</es_es>
     </translation>
     <translation id="resumeTurn">
         <en_us>To resume game, please switch device to landscape mode</en_us>
         <de_de>Drehe dein Gerät um fortzufahren</de_de>
         <ja_jp>ゲームに戻るには装置を横にして下さい</ja_jp>
+	    <es_es>Para reanudar el juegovideo, gire el smartphone horizontalmente.</es_es>
     </translation>
     <translation id="saving">
         <en_us>Saving...</en_us>
         <de_de>Speichern...</de_de>
         <ja_jp>保存中</ja_jp>
+	    <es_es>Guardando...</es_es>
     </translation>
     <translation id="GameOver">
         <en_us>Game Over</en_us>
         <de_de>Spiel zu Ende</de_de>
         <ja_jp>ゲームオーバー</ja_jp>
+	    <es_es>Game Over</es_es>
     </translation>
     <translation id="copyright">
         <en_us>(C) Shoga9 Team. All rights reserved.</en_us>
         <de_de>(C) Shoga9 Team. All rights reserved.</de_de>
         <ja_jp>(C) Shoga9 Team. All rights reserved.</ja_jp>
+	    <es_es>(C) Shoga9 Team. Todos los derechos reservados.</es_es>
     </translation>
 </translations>

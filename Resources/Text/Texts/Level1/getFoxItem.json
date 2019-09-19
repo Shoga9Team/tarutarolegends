@@ -16,7 +16,8 @@
             "text": {
                 "en_us": "Take a look in the inventory.",
                 "de_de": "Schaue in dein Inventar.",
-                "ja_jp": "在庫を見てこい。"
+                "ja_jp": "在庫を見てこい。",
+		        "es_es": "Mira el inventario."
             }
         },
         {
@@ -24,7 +25,8 @@
             "text": {
                 "en_us": "Hmmm... Nothing out of the ordinary.",
                 "de_de": "Hmmm... Nichts Spezielles.",
-                "ja_jp": "うん、大したこと 無いんだよ。"
+                "ja_jp": "うん、大したこと 無いんだよ。",
+		        "es_es": "Hmm…no hay nada fuera del común."
             },
             "inventory": {
                 "open": true
@@ -38,7 +40,8 @@
             "text": {
                 "en_us": "Now, try selecting the Fox item.",
                 "de_de": "Nun, wähle den Fuchsgegenstand aus.",
-                "ja_jp": "じゃあ、キツネの アイテムを使って 見ろよ。"
+                "ja_jp": "じゃあ、キツネの アイテムを使って 見ろよ。",
+		        "es_es": "Ahora, selecciona el zorro ciego."
             }
         },
         {
@@ -46,7 +49,8 @@
             "text": {
                 "en_us": "Cool! So what's next?",
                 "de_de": "Cool! Doch was soll ich nun?",
-                "ja_jp": "スッゲー! 今からどうするの?"
+                "ja_jp": "スッゲー! 今からどうするの?",
+		        "es_es": "¡Qué genial! ¿Qué hago después?"
             },
             "inventory": {
                 "active": "FoxItem"
@@ -57,7 +61,8 @@
             "text": {
                 "en_us": "Approach a nearby enemy and press the 'Barrel Shield' button, or directly tapping on the enemy when playing on a smartphone, to possess it.",
                 "de_de": "Gehe als Fuchs nahe an einen Gegner und drücke das Fass (Schield), oder drücke direkt auf den Gegner wenn du mit dem Smartphone spielst, um den Gegner zu besitzen.",
-                "ja_jp":"敵を寄せて たるシールドボタンを おすかスマート フォンの場合は 敵を直接にタップ すると所有することが 出来ます。"
+                "ja_jp":"敵を寄せて たるシールドボタンを おすかスマート フォンの場合は 敵を直接にタップ すると所有することが 出来ます。",
+		        "es_es": "Al seleccionar el ciego zorro, acércate al enemigo y pulsa el botón del escudo barril, o toca el enemigo cercano si usas smartphone, para posesionarlo."
             }
         },
         {
@@ -84,7 +89,8 @@
             "text": {
                 "en_us": "Want another one?",
                 "de_de": "Willst du einen mehr?",
-                "ja_jp": "もう一個が 欲しいのか?"
+                "ja_jp": "もう一個が 欲しいのか?",
+		        "es_es": "¿Quieres un poco más?"
             }
         },
         {
@@ -92,7 +98,8 @@
             "text": {
                 "en_us": "Yeah, sure!",
                 "de_de": "Ja, klar!",
-                "ja_jp": "うん! ほしいんだよ"
+                "ja_jp": "うん! ほしいんだよ",
+		        "es_es": "¡Si, claro!"
             },
             "inventory": {
                 "open": true
@@ -105,7 +112,8 @@
             "text": {
                 "en_us": "Thanks!",
                 "de_de": "Danke!",
-                "ja_jp": "ありがとう!"
+                "ja_jp": "ありがとう!",
+		        "es_es": "¡Gracias!"
             }
         },
         {
@@ -131,7 +139,8 @@
             "text": {
                 "en_us": "What? Again?",
                 "de_de": "Was? Schon wieder?",
-                "ja_jp": "えっ? また?"
+                "ja_jp": "えっ? また?",
+		        "es_es": "¡Oye! ¿Quiere más?"
             }
         },
         {
@@ -139,7 +148,8 @@
             "text": {
                 "en_us": "Please!",
                 "de_de": "Bitte!",
-                "ja_jp": "お願い!"
+                "ja_jp": "お願い!",
+		        "es_es": "¡Si por favor!"
             },
             "inventory": {
                 "open": true
@@ -152,7 +162,8 @@
             "text": {
                 "en_us": "Thanks again!",
                 "de_de": "Danke danke!",
-                "ja_jp": "またありがとう!"
+                "ja_jp": "またありがとう!",
+		        "es_es": "¡Gracias!"
             }
         },
         {
@@ -160,7 +171,8 @@
             "text": {
                 "en_us": "That's the last one, kid!",
                 "de_de": "Aber dies ist der letzte!",
-                "ja_jp": "でもこれは最後だぜ!"
+                "ja_jp": "でもこれは最後だぜ!",
+		        "es_es": "¡Pero, será el ultimo!"
             }
         },
         {
@@ -187,7 +199,8 @@
             "text": {
                 "en_us": "Sorry kid, I'm all out!",
                 "de_de": "Entschuldige, doch es gibt keine mehr!",
-                "ja_jp": "もう無いんだよ。 すまん…"
+                "ja_jp": "もう無いんだよ。 すまん…",
+		        "es_es": "¡Oye chico, se acabo todo!"
             }
         }
     ],

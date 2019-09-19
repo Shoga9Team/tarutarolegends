@@ -4,55 +4,66 @@
         <en_us>Enemy Kills:</en_us>
         <de_de>Gegener erledigte:</de_de>
         <ja_jp>敵殺し:</ja_jp>
+	    <es_es>Matanzas del Enemigo</es_es>
     </translation>
     <translation id="itemKills">
         <en_us>Projectile Kills:</en_us>
         <de_de>Erlegt mit Gegenstand:</de_de>
         <ja_jp>発射の殺し:</ja_jp>
+	    <es_es>Matanzas de Proyectil</es_es>
     </translation>
     <translation id="possesedKills">
         <en_us>Possession Kills:</en_us>
         <de_de>Besessene Erlegung:</de_de>
         <ja_jp>敵を所有中の殺し:</ja_jp>
+	    <es_es>Matanzas por Posesión del Enemigo</es_es>
     </translation>
     <translation id="items">
         <en_us>Unused Items/Weapons Collected:</en_us>
         <de_de>Ungenutzte Gegenstände/Waffen:</de_de>
         <ja_jp>拾って使用なしアイテム・武器:</ja_jp>
+	    <es_es>Artículos Cogidos/Armas no Usadas</es_es>
     </translation>
     <translation id="health">
         <en_us>Remaining HP:</en_us>
         <de_de>Verbleibende Gesundheit:</de_de>
         <ja_jp>残りのHP:</ja_jp>
+	    <es_es>Salud Restante</es_es>
     </translation>
     <translation id="time">
         <en_us>Time Completed:</en_us>
         <de_de>Zeit abgelaufen:</de_de>
         <ja_jp>仕上げた時間:</ja_jp>
+	    <es_es>Tiempo Completado</es_es>
     </translation>
     <translation id="grade">
         <en_us>Overall Grade:</en_us>
         <de_de>Resultat:</de_de>
         <ja_jp>総合成績:</ja_jp>
+	    <es_es>Grado Total</es_es>
     </translation>
     <translation id="visitUsDemo1">
         <en_us>Thank you for playing Taru Taro Legends Demo.</en_us>
         <de_de>Danke fürs spielen Taru Taro Legends Demo.</de_de>
         <ja_jp>たるタロウ物語のデモをプレーして頂いて、ありがとうございます。</ja_jp>
+	    <es_es>Muchas Gracias por jugar nuestro juegovideo Taru Taro Legends.</es_es>
     </translation>
     <translation id="visitUsDemo2">
         <en_us>Follow us on Twitter @Shoga9Team, FaceBook (Shoga9Team), and Instagram @shoga9team.</en_us>
         <de_de>Folge uns auf Twitter @Shoga9Team, FaceBook (Shoga9Team), und Instagram @shoga9team.</de_de>
         <ja_jp>Twitterで@Shoga9Team、FaceBookで(Shoga9Team)、Instagramで@shoga9teamをフォローして下さい。</ja_jp>
+	    <es_es>Síguenos en Twitter @Shoga9Team, Facebook (Shoga9Team) e Instagram @shoga9team.</es_es>
     </translation>
     <translation id="visitUsDemo3">
         <en_us>For more information. Please visit:</en_us>
         <de_de>Für mehr infos, bitte besuche uns unter:</de_de>
         <ja_jp>くわしくは下記のURLまでおこしください:</ja_jp>
+	    <es_es>Para más información, visite nuestro sitio web:</es_es>
     </translation>
     <translation id="visitUsDemo4">
         <en_us>www.shoga9team.com</en_us>
         <de_de>www.shoga9team.com</de_de>
         <ja_jp>www.shoga9team.com</ja_jp>
+	    <es_es>www.shoga9team.com</es_es>
     </translation>
 </translations>
