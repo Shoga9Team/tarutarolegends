@@ -3,7 +3,7 @@ importScripts('https://cdn.onesignal.com/sdks/OneSignalSDKWorker.js')
 class MasterServiceWorker {
     constructor() {
         this.name = 'ServiceWorker'
-        this.version = 'v15'
+        this.version = 'v16'
         this.precache = [
             './',
             './index.html',
