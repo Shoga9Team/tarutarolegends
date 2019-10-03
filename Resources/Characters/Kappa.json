@@ -1,59 +1,59 @@
 {
     "crouch": {
-        "frames": [0],
-        "frameRate": 15,
+        "frames": [16],
+        "frameRate": 0,
         "loop": false,
-        "stopFrame": 0
+        "stopFrame": 16
     },
     "defend": {
-        "frames": [0, 1, 2, 3, 4, 5, 6, 7],
-        "frameRate": 15,
+        "frames": [16, 17, 18, 19, 20, 21],
+        "frameRate": 30,
         "loop": false,
-        "stopFrame": 0
+        "stopFrame": 16
     },
     "running": {
-        "frames": [8, 9, 10, 11, 12, 13, 14, 15],
+        "frames": [28, 29, 30, 31, 32, 33, 34, 35, 34, 33, 32, 31, 30, 29, 28],
         "frameRate": 40,
         "loop": true,
-        "stopFrame": 0
+        "stopFrame": 16
     },
 	"jump": {
-        "frames": [16, 17, 18, 17, 16],
+        "frames": [11, 12, 13, 14, 15],
         "frameRate": 15,
         "loop": false,
-        "stopFrame": 18
+        "stopFrame": 16
     },
     "jumpBackward": {
-        "frames": [16, 17, 19, 17, 16],
+        "frames": [11, 12, 13, 14, 15],
         "frameRate": 15,
         "loop": false,
-        "stopFrame": 19
+        "stopFrame": 16
     },
     "jumpForward": {
-        "frames": [16, 17, 20, 17, 16],
+        "frames": [11, 12, 13, 14, 15],
         "frameRate": 15,
         "loop": false,
-        "stopFrame": 20
+        "stopFrame": 16
     },
     "hit": {
-        "frames": [40, 41, 42, 43, 44, 44, 45],
-        "frameRate": 40,
+        "frames": [0, 0, 0, 1, 2, 3, 4, 5, 5, 5, 6, 7, 8, 9, 10, 10, 10],
+        "frameRate": 50,
         "loop": false
     },
     "hitBackward": {
-        "frames": [32, 33, 34, 35, 36, 36, 37],
-        "frameRate": 40,
+        "frames": [0, 0, 0, 0, 1, 2, 3, 4, 5, 5, 5, 5, 6, 7, 8, 9, 10, 10, 10, 10],
+        "frameRate": 55,
         "loop": false
     },
     "hitForward": {
-        "frames": [40, 41, 42, 43, 44, 44, 45],
-        "frameRate": 40,
+        "frames": [0, 0, 0, 0, 1, 2, 3, 4, 5, 5, 5, 5, 6, 7, 8, 9, 10, 10, 10, 10],
+        "frameRate": 55,
         "loop": false
     },
      "falling": {
-        "frames": [18],
+        "frames": [15],
         "frameRate": 0,
         "loop": false,
-        "stopFrame": 0
+        "stopFrame": 16
     }
 }
