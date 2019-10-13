@@ -197,7 +197,7 @@
         <en_us>Touch Screen Controls: OFF</en_us>
         <de_de>Touch-Steuerung ausschalten</de_de>
         <ja_jp>タッチスクリーン操作: 切</ja_jp>
-	    <es_es>Controles de la Pantalla Táctil: Desctivado</es_es>
+	    <es_es>Controles de la Pantalla Táctil: Desactivado</es_es>
     </translation>
     <translation id="gamepad">
         <en_us>Gamepad</en_us>
@@ -365,7 +365,7 @@
         <en_us>To resume game, please switch device to landscape mode</en_us>
         <de_de>Drehe dein Gerät um fortzufahren</de_de>
         <ja_jp>ゲームに戻るには装置を横にして下さい</ja_jp>
-	    <es_es>Para reanudar el juegovideo, gire el smartphone horizontalmente.</es_es>
+	    <es_es>Para reanudar el videojuego, gire el smartphone horizontalmente.</es_es>
     </translation>
     <translation id="saving">
         <en_us>Saving...</en_us>
