@@ -140,9 +140,9 @@
 	    <es_es>Deutsch</es_es>
     </translation>
     <translation id="spanish">
-        <en_us>Espanol</en_us>
+        <en_us>Español</en_us>
         <de_de>Español</de_de>
-        <ja_jp>Espanol</ja_jp>
+        <ja_jp>Español</ja_jp>
 	    <es_es>Español</es_es>
     </translation>
     <translation id="back">
@@ -209,7 +209,7 @@
         <en_us>Configure Gamepad</en_us>
         <de_de>Gamepadkonfiguration</de_de>
         <ja_jp>ゲームパッド設定</ja_jp>
-	    <es_es>Configure Gamepad</es_es>
+	    <es_es>Configurar Gamepad</es_es>
     </translation>
     <translation id="gamepadReset">
         <en_us>Reset Gamepad to Default (Xbox360)</en_us>
