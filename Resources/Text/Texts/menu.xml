@@ -21,19 +21,19 @@
         <en_us>Swipe red arrows to remove address bar to enter fullscreen mode</en_us>
         <de_de>Benutze die roten Pfeile um die Adressleiste weg zu scrollen und Vollbildmodus einzuschalten</de_de>
         <ja_jp>全画面表示するには 赤い矢印を スワイプしてアドレスバー を非表示します。</ja_jp>
-	    <es_es>Deslice la flecha roja para quitar la barra de direcciones y utilizar el modo de pantalla completa.</es_es>
+	    <es_es>Deslice la flecha roja para quitar la barra de direcciones y utilizar el modo de pantalla completo.</es_es>
     </translation>
     <translation id="android">
         <en_us>Install game as PWA on Android to enter fullscreen mode.</en_us>
         <de_de>Installieren Sie dieses Spiel als PWA auf Android um auf Vollbild umzuschalten.</de_de>
         <ja_jp>Android上で 全画面するには PWAとして インストールして ください。</ja_jp>
-	    <es_es>Instale el juegovideo como PWA en Android para utilizar el modo de pantalla completa.</es_es>
+	    <es_es>Instale el videojuego como PWA en Android para utilizar el modo de pantalla completo.</es_es>
     </translation>
     <translation id="iOS">
         <en_us>NOTE: The address bar will appear and conceal parts of the game on fullscreen mode, so we recommend using Safari and switch the device from portrait mode to landscape mode to remove it.</en_us>
         <de_de>Hinweis: Wenn Sie nicht in den Vollbildmodus umschalten können, benutzen Sie Safari und wenden das Gerät von horizontal zu vertikal um die Adressleiste aus zu blenden.</de_de>
         <ja_jp>注意：全画面表示中に アドレスバーがゲームの 一部を見えなくなるため, Safariを使用する上スマートフォン 自体を縦から横に動かすと アドレスバーを 非表示にすることができます。</ja_jp>
-	    <es_es>Aviso: La barra de direcciones aparecerá y ocultará parte del juegovideo durante el modo de pantalla completa, y recomendemos usar Safari y gire el smartphone para quitarla.</es_es>
+	    <es_es>Aviso: La barra de direcciones aparecerá y ocultará parte del videojuego durante el modo de pantalla completo, y recomendemos usar Safari y gire el smartphone para quitarla.</es_es>
     </translation>
     <translation id="fps">
         <en_us>If you experience issues during gameplay, your device/browser may be struggling to render at a stable frame rate, so we recommend enabling/disabling WebGL by going to Settings->Rendering->WebGL, or use another device/browser.</en_us>
@@ -212,51 +212,51 @@
 	    <es_es>Configurar Gamepad</es_es>
     </translation>
     <translation id="gamepadReset">
-        <en_us>Reset Gamepad to Default (Xbox360)</en_us>
-        <de_de>Gamepad-Standart wiederherstellen (xbox360)</de_de>
-        <ja_jp>ゲームパッド初期値リセット (Xbox360)</ja_jp>
-	    <es_es>Restablecer Configuración del Gamepad por Defecto (Xbox 360)</es_es>
+        <en_us>Reset Gamepad to Default</en_us>
+        <de_de>Gamepad-Standart wiederherstellen</de_de>
+        <ja_jp>ゲームパッド初期値リセット</ja_jp>
+	    <es_es>Restablecer Configuración del Gamepad por Defecto</es_es>
     </translation>
     <translation id="buttonJump">
         <en_us>Push the [Jump] Button</en_us>
         <de_de>Drücke den Springen-Knopf</de_de>
-        <ja_jp>[ジャンプ]ボタンをおす</ja_jp>
+        <ja_jp>[ジャンプ]ボタンを押す</ja_jp>
 	    <es_es>Pulsar el botón (Saltar)</es_es>
     </translation>
     <translation id="buttonFire">
         <en_us>Push the [Melee Attack] Button</en_us>
         <de_de>Drücke den Schlag-Knopf</de_de>
-        <ja_jp>[アタック]ボタンをおす</ja_jp>
+        <ja_jp>[アタック]ボタンを押す</ja_jp>
 	    <es_es>Pulsar el botón (Atacar)</es_es>
     </translation>
     <translation id="buttonDefend">
         <en_us>Push the [Barrel Shield] Button</en_us>
         <de_de>Drücke den Verteidigungs-Knopf</de_de>
-        <ja_jp>[たるシールド]ボタンをおす</ja_jp>
+        <ja_jp>[たるシールド]ボタンを押す</ja_jp>
 	    <es_es>Pulsar el botón (Escudo Barril)</es_es>
     </translation>
     <translation id="action">
         <en_us>Push the [Inventory/Pick Up] Button</en_us>
         <de_de>Drücke den Inventar/Aufnehmen-Knopf</de_de>
-        <ja_jp>[アイテム・武器を手に入れる]ボタンをおす</ja_jp>
+        <ja_jp>[アイテム・武器を手に入れる]ボタンを押す</ja_jp>
 	    <es_es>Pulsar el botón (Inventario/Coger Artículo o Arma)</es_es>
     </translation>
     <translation id="prevItem">
         <en_us>Push the [Previous Item] Button</en_us>
         <de_de>Drücke den vorheriges Item-Knopf</de_de>
-        <ja_jp>[前のアイテム]ボタンをおす</ja_jp>
+        <ja_jp>[前のアイテム]ボタンを押す</ja_jp>
 	    <es_es>Pulsar el botón (Artículo Anterior)</es_es>
     </translation>
     <translation id="nextItem">
         <en_us>Push the [Next Item] Button</en_us>
         <de_de>Drücke den nächstes Item-Knopf</de_de>
-        <ja_jp>[次のアイテム]ボタンをおす</ja_jp>
+        <ja_jp>[次のアイテム]ボタンを押す</ja_jp>
 	    <es_es>Pulsar el botón (Artículo próximo)</es_es>
     </translation>
     <translation id="pause">
         <en_us>Push [Pause] Button</en_us>
         <de_de>Drücke den Pause-Knopf</de_de>
-        <ja_jp>[一時停止]ボタンをおす</ja_jp>
+        <ja_jp>[一時停止]ボタンを押す</ja_jp>
 	    <es_es>Pulsar el botón (Pausa)</es_es>
     </translation>
     <translation id="cursorsX">
