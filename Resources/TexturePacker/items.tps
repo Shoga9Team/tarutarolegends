@@ -186,6 +186,13 @@
             <key type="filename">../Controls/Boy/Joystick/touchShow.png</key>
             <key type="filename">../Controls/Boy/Joystick/touch_segment.png</key>
             <key type="filename">../Controls/Boy/Joystick/touch_segmentShow.png</key>
+            <key type="filename">../Items/rock/rock_1.svg</key>
+            <key type="filename">../Items/rock/rock_2.svg</key>
+            <key type="filename">../Items/rock/rock_3.svg</key>
+            <key type="filename">../Items/rock/rock_4.svg</key>
+            <key type="filename">../Items/rock/rock_5.svg</key>
+            <key type="filename">../Items/rock/rock_6.svg</key>
+            <key type="filename">../Items/rock/rock_7.svg</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -195,6 +202,19 @@
                 <rect>25,25,50,50</rect>
                 <key>scale9Paddings</key>
                 <rect>25,25,50,50</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">../Healthbar/bar10.svg</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>12,23,23,45</rect>
+                <key>scale9Paddings</key>
+                <rect>12,23,23,45</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -211,16 +231,42 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">../Healthbar/bar25.svg</key>
+            <key type="filename">../Healthbar/bar20.svg</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>90,16,179,31</rect>
+                <rect>22,22,43,43</rect>
                 <key>scale9Paddings</key>
-                <rect>90,16,179,31</rect>
+                <rect>22,22,43,43</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">../Healthbar/bar30.svg</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>31,22,62,44</rect>
+                <key>scale9Paddings</key>
+                <rect>31,22,62,44</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">../Healthbar/bar40.svg</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>39,21,79,42</rect>
+                <key>scale9Paddings</key>
+                <rect>39,21,79,42</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -237,32 +283,55 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">../Healthbar/bar75.svg</key>
+            <key type="filename">../Healthbar/bar60.svg</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>271,16,541,31</rect>
+                <rect>59,21,118,43</rect>
                 <key>scale9Paddings</key>
-                <rect>271,16,541,31</rect>
+                <rect>59,21,118,43</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">../Healthbar/circle100.svg</key>
-            <key type="filename">../Healthbar/circle25.svg</key>
-            <key type="filename">../Healthbar/circle50.svg</key>
-            <key type="filename">../Healthbar/circle75.svg</key>
+            <key type="filename">../Healthbar/bar70.svg</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>31,31,61,61</rect>
+                <rect>70,21,139,43</rect>
                 <key>scale9Paddings</key>
-                <rect>31,31,61,61</rect>
+                <rect>70,21,139,43</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">../Healthbar/bar80.svg</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>78,22,155,43</rect>
+                <key>scale9Paddings</key>
+                <rect>78,22,155,43</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">../Healthbar/bar90.svg</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>87,21,175,43</rect>
+                <key>scale9Paddings</key>
+                <rect>87,21,175,43</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -293,6 +362,46 @@
                 <rect>428,130,855,259</rect>
                 <key>scale9Paddings</key>
                 <rect>428,130,855,259</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">../Inventory/basket.svg</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>26,25,53,50</rect>
+                <key>scale9Paddings</key>
+                <rect>26,25,53,50</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">../Inventory/basket_gold.svg</key>
+            <key type="filename">../Inventory/basket_silver.svg</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>26,25,52,50</rect>
+                <key>scale9Paddings</key>
+                <rect>26,25,52,50</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">../Inventory/rock_inv.svg</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>24,25,47,51</rect>
+                <key>scale9Paddings</key>
+                <rect>24,25,47,51</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -414,21 +523,6 @@
                 <rect>8,9,17,17</rect>
                 <key>scale9Paddings</key>
                 <rect>8,9,17,17</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">../Items/powerup/basket.svg</key>
-            <key type="filename">../Items/powerup/basket_gold.svg</key>
-            <key type="filename">../Items/powerup/basket_silver.svg</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>26,25,52,50</rect>
-                <key>scale9Paddings</key>
-                <rect>26,25,52,50</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -569,6 +663,19 @@
                 <rect>9,10,19,20</rect>
                 <key>scale9Paddings</key>
                 <rect>9,10,19,20</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">../Items/rock/rockOutline.svg</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>12,12,23,23</rect>
+                <key>scale9Paddings</key>
+                <rect>12,12,23,23</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>

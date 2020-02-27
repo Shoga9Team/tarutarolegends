@@ -90,7 +90,11 @@
         {
             "character": "Fox",
             "text": {
-                "en_us": "If you are new to the demo and use a gamepad, press the start button to access the pause menu. For keyboard users, press 'P' and on smartphone devices tap on yourself and then the settings icon.",
+                "en_us": {
+                    "gamepad": "If you are new to the demo press the start button to access the pause menu.",
+                    "keyboard": "If you are new to the demo press 'P' to access the pause menu.",
+                    "touch": "If you are new to the demo tap on yourself and then the settings icon to access the pause menu."
+                },
                 "de_de": "Wenn du neu in dieser Demo bist und den Spielekontroller benutzt, drücke den Startknopf und gehe ins Menü. Für Tastatur, drücke 'P' und mit einem Smartphone klicke auf dich selbst und dann auf das Einstellungszeichen.",
                 "ja_jp": "ゲームパッドを使う 初めの方はスタート ボタンをおすと、 一時停止メニュへの アクセスができる。 キーボードの場合は (P)をおしスマート フォンを使う方は 画面に現れる君を 直接にタップして (設定)のアイコンも タップするんだ。",
 		        "es_es": "Si es tu primera vez y usas un gamepad, pulsa el botón START para acceder el menú de pausa. Si usas teclado, pulsa ‘P’ y para smartphones, toca a Taro directamente al aparecer en la pantalla táctil y después el ícono de ajustes."

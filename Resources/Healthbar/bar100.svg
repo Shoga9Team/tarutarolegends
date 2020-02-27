@@ -1,60 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: Adobe Illustrator 23.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   id="Layer_1"
-   x="0px"
-   y="0px"
-   viewBox="0 0 1440 63.000002"
-   xml:space="preserve"
-   sodipodi:docname="bar100.svg"
-   width="1440"
-   height="63"
-   inkscape:version="0.92.4 (33fec40, 2019-01-16)"><metadata
-   id="metadata13"><rdf:RDF><cc:Work
-       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-   id="defs11" /><sodipodi:namedview
-   pagecolor="#ffffff"
-   bordercolor="#666666"
-   borderopacity="1"
-   objecttolerance="10"
-   gridtolerance="10"
-   guidetolerance="10"
-   inkscape:pageopacity="0"
-   inkscape:pageshadow="2"
-   inkscape:window-width="802"
-   inkscape:window-height="741"
-   id="namedview9"
-   showgrid="false"
-   inkscape:zoom="0.37883881"
-   inkscape:cx="699.67989"
-   inkscape:cy="-63.657533"
-   inkscape:window-x="479"
-   inkscape:window-y="1115"
-   inkscape:window-maximized="0"
-   inkscape:current-layer="Layer_1" />
-<style
-   type="text/css"
-   id="style2">
-	.st0{fill:#00A99D;}
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 387.1 85.3" style="enable-background:new 0 0 387.1 85.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#1B75BB;}
 </style>
-<g
-   id="g6"
-   transform="translate(-109.21,-285.32)">
-	<path
-   class="st0"
-   d="m 1549.21,320.96 v -8.28 c 0,-8.98 -3,-17.1 -7.52,-22.12 -1.85,-1.84 -3.93,-3.33 -6.17,-4.43 -1.33,-0.51 -2.72,-0.81 -4.15,-0.81 H 110.16 c 0.3,1.06 0.76,2.78 1.27,5.03 2.43,8.04 3.72,16.36 3.72,24.92 0,2.91 -0.16,5.82 -0.45,8.71 -0.59,13.68 -3.96,21.48 -5.49,24.34 h 1422.16 c 1.45,0 2.86,-0.31 4.22,-0.84 2.22,-1.1 4.27,-2.58 6.1,-4.39 4.5,-5.02 7.52,-13.14 7.52,-22.13 z"
-   id="path4"
-   inkscape:connector-curvature="0"
-   style="fill:#00a99d" />
+<g>
+	<path class="st0" d="M372.3,83.3H14c-6.6,0-12-5.4-12-12V14.5c0-6.6,5.4-12,12-12h358.3c6.6,0,12,5.4,12,12v56.7
+		C384.3,77.9,378.9,83.3,372.3,83.3z"/>
 </g>
 </svg>
