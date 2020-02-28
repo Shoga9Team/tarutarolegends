@@ -251,9 +251,9 @@
 
     "throw_AxeItem": {
 
-        "frames": [60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 69],
+        "frames": [60, 61, 62, 63, 64, 65, 66, 67, 67, 67],
 
-        "frameRate": 40,
+        "frameRate": 60,
 
         "loop": false
 
@@ -261,9 +261,9 @@
 
     "throw_HammerItem": {
 
-        "frames": [140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 149],
+        "frames": [140, 141, 142, 143, 144, 145, 146, 147, 147, 147],
 
-        "frameRate": 40,
+        "frameRate": 60,
 
         "loop": false
 
@@ -271,9 +271,9 @@
 
     "throw_PowerupItem_gold": {
 
-        "frames": [144, 145, 146, 147, 148, 149, 149],
+        "frames": [144, 145, 146, 147, 148, 149, 149, 149],
 
-        "frameRate": 40,
+        "frameRate": 60,
 
         "loop": false
 
@@ -281,9 +281,9 @@
 
     "throw_PowerupItem_silver": {
 
-        "frames": [144, 145, 146, 147, 148, 149, 149],
+        "frames": [144, 145, 146, 147, 148, 149, 149, 149],
 
-        "frameRate": 40,
+        "frameRate": 60,
 
         "loop": false
 
@@ -291,9 +291,9 @@
 
     "throw_PowerupItem_normal": {
 
-        "frames": [144, 145, 146, 147, 148, 149, 149],
+        "frames": [144, 145, 146, 147, 148, 149, 149, 149],
 
-        "frameRate": 40,
+        "frameRate": 60,
 
         "loop": false
 
@@ -301,7 +301,7 @@
 
     "throwUp_AxeItem": {
 
-        "frames": [200, 201, 202, 229, 225, 225],
+        "frames": [200, 201, 202, 229, 225, 225, 225],
 
         "frameRate": 40,
 
@@ -311,7 +311,7 @@
 
     "throwUp_HammerItem": {
 
-        "frames": [205, 206, 207, 229, 225, 225],
+        "frames": [205, 206, 207, 229, 225, 225, 225],
 
         "frameRate": 40,
 
@@ -321,9 +321,9 @@
 
     "throwUp_PowerupItem_gold": {
 
-        "frames": [229, 225, 225],
+        "frames": [229, 225, 225, 225],
 
-        "frameRate": 40,
+        "frameRate": 60,
 
         "loop": false
 
@@ -331,9 +331,9 @@
 
     "throwUp_PowerupItem_silver": {
 
-        "frames": [229, 225],
+        "frames": [229, 225, 225, 225],
 
-        "frameRate": 40,
+        "frameRate": 60,
 
         "loop": false
 
@@ -341,9 +341,9 @@
 
     "throwUp_PowerupItem_normal": {
 
-        "frames": [229, 225, 225],
+        "frames": [229, 225, 225, 225],
 
-        "frameRate": 40,
+        "frameRate": 60,
 
         "loop": false
 
@@ -351,9 +351,9 @@
 
     "throwDown_AxeItem": {
 
-        "frames": [210, 211, 212, 213, 214, 215, 216, 217, 218, 218],
+        "frames": [210, 211, 212, 213, 214, 215, 216, 217, 218],
 
-        "frameRate": 40,
+        "frameRate": 60,
 
         "loop": false
 
@@ -361,9 +361,9 @@
 
     "throwDown_HammerItem": {
 
-        "frames": [210, 211, 212, 213, 214, 215, 216, 217, 218, 218],
+        "frames": [210, 211, 212, 213, 214, 215, 216, 217, 218],
 
-        "frameRate": 40,
+        "frameRate": 60,
 
         "loop": false
 
@@ -371,9 +371,9 @@
 
     "throwDown_PowerupItem_gold": {
 
-        "frames": [211, 214, 215, 216, 217, 218, 218],
+        "frames": [211, 214, 215, 216, 217, 218],
 
-        "frameRate": 40,
+        "frameRate": 60,
 
         "loop": false
 
@@ -381,9 +381,9 @@
 
     "throwDown_PowerupItem_silver": {
 
-        "frames": [211, 214, 215, 216, 217, 218, 218],
+        "frames": [211, 214, 215, 216, 217, 218],
 
-        "frameRate": 40,
+        "frameRate": 60,
 
         "loop": false
 
@@ -391,9 +391,9 @@
 
     "throwDown_PowerupItem_normal": {
 
-        "frames": [211, 214, 215, 216, 217, 218, 218],
+        "frames": [211, 214, 215, 216, 217, 218],
 
-        "frameRate": 40,
+        "frameRate": 60,
 
         "loop": false
 
@@ -435,7 +435,7 @@
 
     "push": {
 
-        "frames": [220, 221, 222, 223, 224],
+        "frames": [220, 221, 222, 223, 224, 223, 222, 221],
 
         "frameRate": 15,
 
@@ -447,7 +447,7 @@
 
     "push_AxeItem": {
 
-        "frames": [120, 121, 122, 123, 124],
+        "frames": [120, 121, 122, 123, 124, 123, 122, 121],
 
         "frameRate": 15,
 
@@ -459,7 +459,7 @@
 
     "push_HammerItem": {
 
-        "frames": [190, 191, 192, 193, 194],
+        "frames": [190, 191, 192, 193, 194, 193, 192, 191],
 
         "frameRate": 15,
 
