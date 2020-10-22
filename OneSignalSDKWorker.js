@@ -29,7 +29,7 @@ class MasterServiceWorker {
     // intercepts fetches, asks cache for fast response and still fetches and caches afterwards
     addFetchEventListener() {
         self.addEventListener('fetch', event => event.respondWith(
-            this.doNotIntercept.every(url => !event.request.url.includes(url)) && this.doIntercept.every(url => event.request.url.includes(url))
+            this.doNotIntercept.every(url => !event.request.url.includes(url)) && this.doIntercept.some(url => event.request.url.includes(url))
                 ? new Promise((resolve, reject) => {
                     let counter = 0
                     let didResolve = false
