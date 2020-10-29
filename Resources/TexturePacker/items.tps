@@ -498,6 +498,32 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">../Items/misc/shoga.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>13,14,25,27</rect>
+                <key>scale9Paddings</key>
+                <rect>13,14,25,27</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">../Items/misc/shogaOutline.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>15,16,29,31</rect>
+                <key>scale9Paddings</key>
+                <rect>15,16,29,31</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">../Items/powerup/apple.svg</key>
             <key type="filename">../Items/powerup/apple_gold.svg</key>
             <key type="filename">../Items/powerup/apple_silver.svg</key>

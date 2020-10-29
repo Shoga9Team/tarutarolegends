@@ -1,0 +1,135 @@
+{
+    "steps0": [
+        {
+            "character": "Boy",
+            "inventory": {
+                "close": true
+            }
+        },
+        {
+            "controls": {
+                "buttonDefend": true,
+                "duration": 2000
+            }
+        },
+        {
+            "controls": {
+                "cursors.walkTo": true,
+                "duration": 1000
+            }
+        },
+        {
+            "controls": {
+                "cursors.down": true,
+                "duration": 80
+            }
+        },
+        {
+            "character": "Boy",
+            "text": {
+                "en_us": "are you alright?",
+                "de_de": "are you alright?",
+                "ja_jp": "are you alright?",
+		        "es_es": "are you alright?"
+            }
+        },
+        {
+            "character": "Lana",
+            "text": {
+                "en_us": "ohhhhh...",
+                "de_de": "ohhhhh...",
+                "ja_jp": "ohhhhh...",
+		        "es_es": "ohhhhh..."
+            }
+        },
+        {
+            "controls": {
+                "cursors.walkAwayFrom": true,
+                "duration": 80
+            }
+        },
+        {
+            "controls": {
+                "cursors.walkTo": true,
+                "duration": 500
+            }
+        },
+        {
+            "text": {
+                "en_us": "you saved me...",
+                "de_de": "you saved me...",
+                "ja_jp": "you saved me...",
+		        "es_es": "you saved me..."
+            }
+        },
+        {
+            "character": "Boy",
+            "controls": {
+                "cursors.walkAwayFrom": true,
+                "duration": 500
+            }
+        },
+        {
+            "controls": {
+                "cursors.walkTo": true,
+                "duration": 500
+            }
+        },
+        {
+            "text": {
+                "en_us": "totally tho...",
+                "de_de": "totally tho...",
+                "ja_jp": "totally tho...",
+		        "es_es": "totally tho..."
+            }
+        },
+        {
+            "character": "Lana",
+            "text": {
+                "en_us": "But duuuude... stay at least 1.5m distance from me, its the freakn Corona!",
+                "de_de": "But duuuude... stay at least 1.5m distance from me, its the freakn Corona!",
+                "ja_jp": "But duuuude... stay at least 1.5m distance from me, its the freakn Corona!",
+		        "es_es": "But duuuude... stay at least 1.5m distance from me, its the freakn Corona!"
+            }
+        },
+        {
+            "character": "Boy",
+            "text": {
+                "en_us": "oh I forgot!",
+                "de_de": "oh I forgot!",
+                "ja_jp": "oh I forgot!",
+		        "es_es": "oh I forgot!"
+            }
+        },
+        {
+            "controls": {
+                "cursors.walkAwayFrom": true,
+                "duration": 1500
+            }
+        },
+        {
+            "controls": {
+                "cursors.walkTo": true,
+                "duration": 80
+            }
+        },
+        {
+            "controls": {
+                "cursors.down": true,
+                "duration": 500
+            }
+        },
+        {
+            "controls": {
+                "cursors.walkTo": true,
+                "duration": 80
+            },
+            "text": {
+                "en_us": "sorry broad!",
+                "de_de": "sorry broad!",
+                "ja_jp": "sorry broad!",
+		        "es_es": "sorry broad!"
+            }
+        }
+    ]
+}

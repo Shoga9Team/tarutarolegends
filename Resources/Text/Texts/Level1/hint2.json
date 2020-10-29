@@ -1,0 +1,45 @@
+{
+    "steps0": [
+        {
+            "character": "Boy",
+            "inventory": {
+                "close": true
+            }
+        },
+        {
+            "character": "Fox"
+        },
+        {
+            "ref": "foxOut"
+        },
+        {
+            "text": {
+                "en_us": "Hey kid, remember to explore the area. You might discover rare items, secret locations, and even new abilities. Also, up ahead, new challenges await you.",
+                "de_de": ".",
+                "ja_jp": "タロウくん、　この場所を　十分に探った　方が良い。　珍しいものや　隠れ場所から　新しい能力まで　見つけることが　出来る。　これからも、新しい挑戦も　待ってるぞ。",
+		"es_es": "Oye, chico, no te olvides explorar este lugar. Podrás descubrir artículos raros, lugares escondidos, hasta nuevas habilidades. Ademas, mas luego nuevos retos te esperan."
+            }
+        }
+
+    ],
+    "foxOut": [
+        {
+            "controls": {
+                "cursors.walkAwayFrom": true,
+                "duration": 1000
+            }
+        },
+        {
+            "controls": {
+                "cursors.walkTo": true,
+                "duration": 80
+            }
+        },
+        {
+            "controls": {
+                "cursors.down": true,
+                "duration": 80
+            }
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "roar": {
+        "start": 0.00,
+        "duration": 1.164,
+        "volume": 1.0
+    },
+    "attack": {
+        "start": 1.592,
+        "duration": 1.105,
+        "volume": 1.0
+    },
+    "jump": {
+        "start": 2.714,
+        "duration": 1.013,
+        "volume": 1.0
+    },
+    "land": {
+        "start": 3.917,
+        "duration": 0.721,
+        "volume": 1.0
+    },
+    "growl": {
+        "start": 4.635,
+        "duration": 1.904,
+        "volume": 1.0
+    },
+    "damage": {
+        "start": 6.960,
+        "duration": 1.134,
+        "volume": 1.0
+    },
+    "death": {
+        "start": 8.498,
+        "duration": 3.379,
+        "volume": 1.0
+    }
+}

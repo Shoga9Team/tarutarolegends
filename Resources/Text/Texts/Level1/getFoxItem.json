@@ -66,6 +66,13 @@
             }
         },
         {
+            "text": {
+                "en_us": "Also, you can't enter the cave without breaking through that rock wall, so if you wait a little while, you might get the help you need.",
+                "ja_jp":"ちなみに、あの石の壁を　突破しないと　洞窟に入ることが　できないから、もうすこし　待ってたら、　助けが現れる　かもよ。",
+		        "es_es": "A propósito, no puedes entrar la cueva sin atravesar la pared de piedra, pero si esperas por un ratito, quizás tu ayuda se aparecerá..."
+            }
+        },
+        {
             "character": "Boy",
             "inventory": {
                 "close": true
