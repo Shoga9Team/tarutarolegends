@@ -14,46 +14,36 @@
         },
         {
             "text": {
-                "en_us": "If you see a rope or vine, you can climb it by jumping at it and press the up button.",
+                "en_us": {
+                    "gamepad": "If you see a rope or vine, you can climb it by jumping at it and press the up button.",
+                    "keyboard": "If you see a rope or vine, you can climb it by jumping at it and press the up button.",
+                    "touch": "For climable surfaces or objects such as trees, ropes and vines the up arrow will appear on the dpad, once you jump at it."
+                },
                 "de_de": "Wenn du ein Seil oder Liane siehst, drücke nach oben um daran hoch zu klettern.",
-                "ja_jp": "ロープやつる草を 見つけるときには ゲームパッドで (A)のボタン、 キーボードで(Q)のキー スマートフォンで ジャンプボタンなどを おしてからすぐに ゲームパッドの 左アナログ スティックは上へ キーボードの上矢印キー スマートフォンの 十字キーの上ボタンを おすと登ることが できます。",
-		        "es_es": "Si ves una soga o vid, pulsa el botón de ‘saltar’ y ‘arriba’ en el gamepad simultáneamente y puedes trepar."
+                "ja_jp": "ロープやつる草を 見つけるときには ジャンプボタンなどを おしてからすぐに 上ボタンを おすと登ることが できます。",
+		        "es_es": "Si ves una soga o vid, pulsa los botones de ‘saltar’ y ‘arriba’ simultáneamente y puedes trepar."
             }
         },
         {
             "character": "Fox",
             "text": {
-                "en_us": "If you haven't figured it out by now, you can also use the Barrel Shield to protect you from enemies and obstacles. To get out of the Barrel Shield, simply release the button.",
+                "en_us": "You can use the Barrel Shield to protect you from enemies and obstacles. To get out of the Barrel Shield, simply release the button.",
                 "de_de": "Falls du es noch nicht herausgefunden hast, du kannst das Fass als Schield benutzen um dich vor Feinden und Hindernissen zu schützen. Um aus dem Fass zu kommen, lass den Verteidigungsknopf los.",
-                "ja_jp": "もし今まで分かって こなかった場合は たるシールドを使うと 敵やぼう害から 守るのはゲームパッドで(B) キーボードで(SPACE) スマートフォンで たるシールドボタン などをおします。 たるシールドから 出るときにはボタンを 放します。",
-		        "es_es": "Si todavía no lo habías averiguado, puedes pulsar el ‘escudo barril’ (Barrel Shield) para protegerte contra tus enemigos u obstáculos peligrosos. Cuando quieres salirte del escudo barril, suelta el botón."
+                "ja_jp": "たるシールドを使うと 敵やぼう害から 守るのはゲームパッドで(B) キーボードで(SPACE) スマートフォンで たるシールドボタン などをおします。 たるシールドから 出るときにはボタンを 放します。",
+		        "es_es": "Puedes pulsar el ‘escudo barril’ (Barrel Shield) para protegerte contra los enemigos u obstáculos peligrosos. Cuando quieres salirte del escudo barril, suelta el botón."
             }
         },
         {
             "character": "Fox",
             "text": {
-                "en_us": "Also don't forget that you can throw weapons and items at enemies. Move the right analog stick to aim, then release to throw.",
+                "en_us": {
+                    "gamepad": "Also don't forget that you can throw weapons and items at enemies. With the gamepad, move the right analog stick to aim, then release to throw.",
+                    "keyboard": "Also don't forget that you can throw weapons and items at enemies. With the keyboard, hold a,w,s,d to aim, then release the button(s) to throw.",
+                    "touch": "Also don't forget that you can throw weapons and items at enemies. With the touchscreen, hold and drag the throw icon in the upper right corner to aim, then release to throw."
+                },
                 "de_de": "Vergiss auch nicht, dass du Waffen und Gegenstände an deine Feinde werfen kannst. Ziele mit dem rechten Analogstick und dann lasse diesen los um zu werfen.",
                 "ja_jp": "さらにゲームパッドで 右アナログスティックで 好きな方向に向ける上 放すと武器/アイテムを 敵に投げます。",
-		        "es_es": "No te olives que también puedes lanzar los artículos o las armas a tus enemigos usando el stick analógico derecho. Gira el stick para apuntar y suéltalo para lanzar."
-            }
-        },
-        {
-            "character": "Fox",
-            "text": {
-                "en_us": "On the keyboard, A and D are left and right, while W and S are up and down, so you can press the keys to aim, and release to throw. You can even throw weapons and items diagonally by pressing the corresponding buttons.",
-                "de_de": "Auf der Tastatur A und D für links und rechts und W und S um nach oben oder unten zu werfen. Drücke diese Knöpfe auch in Kombination und lasse sie los um diagonal zu werfen.",
-                "ja_jp": "キーボードで AとDのキーは左と右、 WとSとは上下なので キーをおして放すと 決めた方向に武器/ アイテムを投げます。 もちろん、ある武器や アイテムはしゃせんに 投げるときには 右上/右下/ 左上/左下のキーを 同時におします。",
-		        "es_es": "En el teclado, las teclas A y D corresponde a las direcciones de lanzar a la izquierda y la derecha, mientras W y S al arriba y abajo. Pulsa las teclas para apuntar, y suéltalas para lanzar. Además, puedes lanzar artículos o armas diagonalmente."
-            }
-        },
-        {
-            "character": "Fox",
-            "text": {
-                "en_us": "On mobile devices, a weapon/item icon will appear on the top right corner of the screen. Tap and swipe to aim, and release to throw.",
-                "de_de": "Auf dem Smartphone erscheint ein Waffen/Gegenstandszeichen im oberen rechten Rand des Bildschirms. Ziehe dieses in die Richtung in welche du werfen willst.",
-                "ja_jp": "スマートフォンの 画面の上右に武器/ アイテムのアイコンが 表示しますので、 アイコンをタップと 好きな方向に スワイプしてから 放すと武器/アイテムを 投げます。",
-		        "es_es": "En los smartphones, el ícono de la arma o el articulo aparecerá en el rincón superior derecho de la pantalla táctil. Toca y desliza el icono para apuntar, y suelta para lanzar."
+		        "es_es": "No te olives que también puedes lanzar los artículos o las armas a tus enemigos usando el stick analógico derecho. Usando el gamepad, gira el stick para apuntar y suéltalo para lanzar."
             }
         },
         {

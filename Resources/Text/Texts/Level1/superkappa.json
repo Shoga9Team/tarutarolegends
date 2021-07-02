@@ -1,0 +1,19 @@
+{
+    "steps0": [
+        {
+            "character": "Boy",
+            "inventory": {
+                "close": true
+            }
+        },
+        {
+            "character": "SuperKappa",
+            "text": {
+                "en_us": "You must be the boy who entered this world, searching for your friends. I see you have made it this far but unfortunately you shall not go any further and see them… unless of course you dare to defeat me!",
+                "de_de": "Du bist das Kind welches in diese Welt kam und nach seinen Freunden sucht. Schön dass du es so weit geschaft hast, doch leider wirst du hier nicht weiter kommen... ausgenommen du wagst es gegen mich zu kämpfen!",
+                "ja_jp": "Tú debes ser el chico que entro este mundo, en busca de tus amigos. Lograste a llegar desde muy lejos, pero no te permitiré a continuar y reunirte con tus amigos… ¡a menos que retas a derrotarme!",
+		        "es_es": "君はこの世に　入って友達を　探している坊や　はずだろうなぁ。　遠くからたどり　着いたが、あいにくここから　進まなくて　友達も合わない　限りに… 俺をあえて　倒さないんだぞ！"
+            }
+        }
+    ]
+}

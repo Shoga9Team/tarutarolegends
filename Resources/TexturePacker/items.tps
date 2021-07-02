@@ -181,6 +181,19 @@
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
+            <key type="filename">../Characters/SuperKappaSilhouette.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>56,41,111,82</rect>
+                <key>scale9Paddings</key>
+                <rect>56,41,111,82</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">../Controls/Boy/Joystick/compass_rose.png</key>
             <key type="filename">../Controls/Boy/Joystick/touch.png</key>
             <key type="filename">../Controls/Boy/Joystick/touchShow.png</key>
@@ -768,6 +781,7 @@
             <filename>../Menu/stamp(so-so).png</filename>
             <filename>../Menu/stamp(wonderful).png</filename>
             <filename>../Menu/settings.svg</filename>
+            <filename>../Characters/SuperKappaSilhouette.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

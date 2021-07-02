@@ -17,7 +17,7 @@
                 "en_us": "Welcome to Kimagure Forest, kid.",
                 "de_de": "Willkommen im Kimagure Wald",
                 "ja_jp": "気まぐれフォレストへ ようこそ。",
-		        "es_es": "Bienvenidos al bosque de Kimagure."
+		"es_es": "Bienvenidos al bosque de Kimagure."
             }
         },
         {
@@ -26,7 +26,7 @@
                 "en_us": "Okay.... But why am I here? And who are you anyway?",
                 "de_de": "Ja, aber weshalb bin ich hier? Und sowiso wo sind wir?",
                 "ja_jp": "あの…なぜここに 居るんだ？ ちなみに君は だれなの？",
-		        "es_es": "Okay…¿Pero porque estoy aquí? ¿Y quién eres tú?"
+		"es_es": "Okay…¿Pero porque estoy aquí? ¿Y quién eres tú?"
             }
         },
         {
@@ -35,7 +35,7 @@
                 "en_us": "I'm a blind fox named Takumi, and you're here to test out this demo.",
                 "de_de": "Ich bin der blinde Fuchs Takumi und du bist hier um die Demo zu testen.",
                 "ja_jp": "オレは目の見えない キツネのタクミだよ。 タロウはこのデモを 試すために居るんだ。",
-		        "es_es": "Me llamo Takumi, el ciego zorro. Y estás aquí para probar este demo."
+		"es_es": "Me llamo Takumi, el ciego zorro. Y estás aquí para probar este demo."
             }
         },
 {
@@ -44,13 +44,13 @@
                 "en_us": "So...this is all just a game then?",
                 "de_de": "Also, dies ist dann nur ein Spiel?",
                 "ja_jp": "つまり… これはただの ゲームだよね？",
-		        "es_es": "Este bosque es solamente un juego, ¿Si?"
+		"es_es": "Este bosque es solamente un juego, ¿Si?"
             }
         },
         {
             "character": "Fox",
             "text": {
-                "en_us": "Yup. But it's just a short demo.",
+                "en_us": "Well... it's much more than that!",
                 "de_de": "Ja. Aber es ist nur eine kurze Demonstration.",
                 "ja_jp": "ええ。でも、 短いんだ。",
 		        "es_es": "Si, pero será corto."
@@ -84,7 +84,7 @@
                 "en_us": "So, what do I do?",
                 "de_de": "Also, was soll ich machen?",
                 "ja_jp": "じゃあ、ゲームの 仕方は？",
-		        "es_es": "¿Cómo puedo probar el demo?"
+		"es_es": "¿Cómo puedo probar el demo?"
             }
         },
         {
@@ -103,7 +103,7 @@
         {
             "character": "Fox",
             "text": {
-                "en_us": "In the menu select Settings -> Controls -> Layout.",
+                "en_us": "In the menu select Controls Layout.",
                 "de_de": "Im Menü wähle Einstellungen -> Steuerung -> Steuerunglayouts",
                 "ja_jp": "ながれは:『メニュ＞ ＞設定＞＞操作＞ ＞レイアウト』",
 		        "es_es": "En el menú seleccione Ajustes>Controles>Diagrama de los Controles."
@@ -121,10 +121,10 @@
         {
             "character": "Fox",
             "text": {
-                "en_us": "Actually, this forest has some dangerous creatures to watch out for, so you should explore the area and look for weapons or items to help you fight them off.",
+                "en_us": "Actually, this forest has some dangerous creatures, so you should explore and look for weapons or items to help you fight them off.",
                 "de_de": "Dieser Wald hat einige gefährliche Kreaturen. Sei vorsichtig und suche die Umgebung nach Waffen und Gegenständen ab, welche dir bei der Verteidigung helfen.",
                 "ja_jp": "実はこのフォレストに 危険な生き物が 居るので自分を守る ためにフォレストに 武器/アイテムを 探った方が良い。",
-		        "es_es": "En el bosque hay varias criaturas peligrosas y debes buscar artículos o armas que te ayudarías a lucharlas."
+		"es_es": "En el bosque hay varias criaturas peligrosas y debes buscar artículos o armas que te ayudarías a lucharlas."
             }
         },
         {

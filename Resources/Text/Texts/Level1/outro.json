@@ -15,31 +15,33 @@
         {
             "controls": {
                 "cursors.walkTo": true,
-                "duration": 1000
-            }
-        },
-        {
-            "controls": {
-                "cursors.down": true,
-                "duration": 80
+                "duration": 300
             }
         },
         {
             "character": "Boy",
             "text": {
-                "en_us": "are you alright?",
-                "de_de": "are you alright?",
-                "ja_jp": "are you alright?",
-		        "es_es": "are you alright?"
+                "en_us": "LANA! It's you! Are you alright?",
+                "de_de": "LANA! Bist du das? Ist alles okay?",
+                "ja_jp": "LANA! It's you! Are you alright?",
+		        "es_es": "LANA! It's you! Are you alright?"
             }
         },
         {
             "character": "Lana",
             "text": {
-                "en_us": "ohhhhh...",
-                "de_de": "ohhhhh...",
-                "ja_jp": "ohhhhh...",
-		        "es_es": "ohhhhh..."
+                "en_us": "Is that...Taro? Where am I?",
+                "de_de": "Ist das...Taro? Wo bin ich?",
+                "ja_jp": "Is that...Taro? Where am I?",
+		        "es_es": "Is that...Taro? Where am I?"
+            }
+        },
+        {
+            "text": {
+                "en_us": "...and how did I get here?...",
+                "de_de": "...und wie kam ich hier her?...",
+                "ja_jp": "...and how did I get here?...",
+		        "es_es": "...and how did I get here?..."
             }
         },
         {
@@ -54,81 +56,100 @@
                 "duration": 500
             }
         },
-        {
+       {
             "text": {
-                "en_us": "you saved me...",
-                "de_de": "you saved me...",
-                "ja_jp": "you saved me...",
-		        "es_es": "you saved me..."
-            }
-        },
-        {
-            "character": "Boy",
-            "controls": {
-                "cursors.walkAwayFrom": true,
-                "duration": 500
-            }
-        },
-        {
-            "controls": {
-                "cursors.walkTo": true,
-                "duration": 500
+                "en_us": "It's a really long story, but I'm glad you're safe.",
+                "de_de": "Dies ist eine lange Geschichte aber ich bin glücklich, dass du unverletzt bist.",
+                "ja_jp": "It's a really long story, but I'm glad you're safe.",
+		        "es_es": "It's a really long story, but I'm glad you're safe."
             }
         },
         {
             "text": {
-                "en_us": "totally tho...",
-                "de_de": "totally tho...",
-                "ja_jp": "totally tho...",
-		        "es_es": "totally tho..."
+                "en_us": "For now, we're stuck here but we gotta hurry and find the others.",
+                "de_de": "Im Moment sind wir hier gefangen, lass uns die anderen finden.",
+                "ja_jp": "For now, we're stuck here but we gotta hurry and find the others.",
+		        "es_es": "For now, we're stuck here but we gotta hurry and find the others."
             }
         },
+
         {
             "character": "Lana",
             "text": {
-                "en_us": "But duuuude... stay at least 1.5m distance from me, its the freakn Corona!",
-                "de_de": "But duuuude... stay at least 1.5m distance from me, its the freakn Corona!",
-                "ja_jp": "But duuuude... stay at least 1.5m distance from me, its the freakn Corona!",
-		        "es_es": "But duuuude... stay at least 1.5m distance from me, its the freakn Corona!"
+                "en_us": "...It's all so surreal how we're in a bus",
+                "de_de": "...alles scheint wiä ein Traum, wir waren im bus",
+                "ja_jp": "...It's all so surreal how we're in a bus",
+		        "es_es": "...It's all so surreal how we're in a bus"
+            }
+        },
+        {
+             "text": {
+                "en_us": "then suddenly, I'm trapped inside a very weird and scary place.",
+                "de_de": "dann aufeinmal war ich gefangen an einem sehr schrecklen Ort.",
+                "ja_jp": "then suddenly, I'm trapped inside a very weird and scary place.",
+	            "es_es": "then suddenly, I'm trapped inside a very weird and scary place."
+            }
+         },
+            {
+             "text": {
+                "en_us": "And now, here we are.",
+                "de_de": "Und nun bin ich hier.",
+                "ja_jp": "And now, here we are.",
+	            "es_es": "And now, here we are."
+            }
+         },
+
+        {
+            "character": "Boy",
+            "text": {
+                "en_us": "Yeah, it's really strange.",
+                "de_de": "Ja, es ist wirklich komisch.",
+                "ja_jp": "Yeah, it's really strange.",
+		        "es_es": "Yeah, it's really strange."
+            }
+        },
+            
+            {
+             "text": {
+                "en_us": "After I woke up, I had this barrel on my back.",
+                "de_de": "Nachdem ich aufgewacht bin, hatte ich dieses Fass auf meinem Rücken.",
+                "ja_jp": "After I woke up, I had this barrel on my back.",
+	            "es_es": "After I woke up, I had this barrel on my back."
+            }
+         },
+            {
+             "text": {
+                "en_us": "Then I talked to a magical blind fox.",
+                "de_de": "Dann sprach ich zu einem magischen blinden Fucks.",
+                "ja_jp": "Then I talked to a magical blind fox.",
+	            "es_es": "Then I talked to a magical blind fox."
+            }
+         },
+
+	    {
+             "text": {
+                "en_us": "And I fought a giant monster to free you!",
+                "de_de": "Und ich kämpfte gegen ein riesiges Monster um dich zu befreien!",
+                "ja_jp": "And I fought a giant monster to free you!",
+                "es_es": "And I fought a giant monster to free you!"
+            }
+         },
+            {
+            "character": "Lana",
+            "text": {
+                "en_us": "Giant monster? Magical blind fox?",
+                "de_de": "Riesiges Monster? Magischer Fucks?",
+                "ja_jp": "Giant monster? Magical blind fox?",
+		        "es_es": "Giant monster? Magical blind fox?"
             }
         },
         {
             "character": "Boy",
             "text": {
-                "en_us": "oh I forgot!",
-                "de_de": "oh I forgot!",
-                "ja_jp": "oh I forgot!",
-		        "es_es": "oh I forgot!"
-            }
-        },
-        {
-            "controls": {
-                "cursors.walkAwayFrom": true,
-                "duration": 1500
-            }
-        },
-        {
-            "controls": {
-                "cursors.walkTo": true,
-                "duration": 80
-            }
-        },
-        {
-            "controls": {
-                "cursors.down": true,
-                "duration": 500
-            }
-        },
-        {
-            "controls": {
-                "cursors.walkTo": true,
-                "duration": 80
-            },
-            "text": {
-                "en_us": "sorry broad!",
-                "de_de": "sorry broad!",
-                "ja_jp": "sorry broad!",
-		        "es_es": "sorry broad!"
+                "en_us": "Yeah, Like I said, it's a long story. I'll tell you on the way.",
+                "de_de": "Yeah, wie ich sagte, es ist eine lange Geschichte. Ich werde dir den Rest auf dem Weg erklären.",
+                "ja_jp": "Yeah, Like I said, it's a long story. I'll tell you on the way.",
+		        "es_es": "Yeah, Like I said, it's a long story. I'll tell you on the way."
             }
         }
     ]

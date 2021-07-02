@@ -14,16 +14,16 @@
         },
         {
             "text": {
-                "en_us": "Take a look in the inventory.",
+                "en_us": "Access the inventory.",
                 "de_de": "Schaue in dein Inventar.",
                 "ja_jp": "在庫を見てこい。",
-		        "es_es": "Mira el inventario."
+		        "es_es": "Abre el inventario."
             }
         },
         {
             "character": "Boy",
             "text": {
-                "en_us": "Hmmm... Nothing out of the ordinary.",
+                "en_us": "Hmmm... Nothing unusual there.",
                 "de_de": "Hmmm... Nichts Spezielles.",
                 "ja_jp": "うん、大したこと 無いんだよ。",
 		        "es_es": "Hmm…no hay nada fuera del común."
@@ -38,7 +38,7 @@
         {
             "character": "Fox",
             "text": {
-                "en_us": "Now, try selecting the Fox item.",
+                "en_us": "Now, select the Fox item.",
                 "de_de": "Nun, wähle den Fuchsgegenstand aus.",
                 "ja_jp": "じゃあ、キツネの アイテムを使って 見ろよ。",
 		        "es_es": "Ahora, selecciona el zorro ciego."
@@ -50,7 +50,7 @@
                 "en_us": "Cool! So what's next?",
                 "de_de": "Cool! Doch was soll ich nun?",
                 "ja_jp": "スッゲー! 今からどうするの?",
-		        "es_es": "¡Qué genial! ¿Qué hago después?"
+		        "es_es": "¡Increíble! ¿Qué hago después?"
             },
             "inventory": {
                 "active": "FoxItem"
@@ -59,17 +59,18 @@
         {
             "character": "Fox",
             "text": {
-                "en_us": "Approach a nearby enemy and press the 'Barrel Shield' button, or directly tapping on the enemy when playing on a smartphone, to possess it.",
-                "de_de": "Gehe als Fuchs nahe an einen Gegner und drücke das Fass (Schield), oder drücke direkt auf den Gegner wenn du mit dem Smartphone spielst, um den Gegner zu besitzen.",
-                "ja_jp":"敵を寄せて たるシールドボタンを おすかスマート フォンの場合は 敵を直接にタップ すると所有することが 出来ます。",
-		        "es_es": "Al seleccionar el ciego zorro, acércate al enemigo y pulsa el botón del escudo barril, o toca el enemigo cercano si usas smartphone, para posesionarlo."
-            }
-        },
-        {
-            "text": {
-                "en_us": "Also, you can't enter the cave without breaking through that rock wall, so if you wait a little while, you might get the help you need.",
-                "ja_jp":"ちなみに、あの石の壁を　突破しないと　洞窟に入ることが　できないから、もうすこし　待ってたら、　助けが現れる　かもよ。",
-		        "es_es": "A propósito, no puedes entrar la cueva sin atravesar la pared de piedra, pero si esperas por un ratito, quizás tu ayuda se aparecerá..."
+                "en_us": {
+                    "touch": "Approach a nearby enemy and tab it and it will be possessed.",
+                    "keyboard": "Approach a nearby enemy and press the 'Barrel Shield' button Q to possess it.",
+                    "gamepad": "Approach a nearby enemy and press the 'Barrel Shield' button to possess it."
+                },
+                "de_de": {
+                    "touch": "Gehe als Fuchs nahe an einen Gegner und drücke direkt auf den Gegner um den Gegner zu besitzen.",
+                    "keyboard": "Gehe als Fuchs nahe an einen Gegner und drücke das Fass (Schield) um den Gegner zu besitzen.",
+                    "gamepad": "Gehe als Fuchs nahe an einen Gegner und drücke das Fass (Schield) um den Gegner zu besitzen."
+                },
+                "ja_jp": "敵を寄せて たるシールドボタンを 押すと敵を 所有することが 出来ます。",
+		        "es_es": "Acércate al enemigo y pulsa el botón del escudo barril para posesionarlo."
             }
         },
         {
@@ -97,7 +98,7 @@
                 "en_us": "Want another one?",
                 "de_de": "Willst du einen mehr?",
                 "ja_jp": "もう一個が 欲しいのか?",
-		        "es_es": "¿Quieres un poco más?"
+                "es_es": "¿Quieres un poco más?"
             }
         },
         {

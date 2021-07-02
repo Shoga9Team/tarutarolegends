@@ -15,12 +15,19 @@
         {
             "text": {
                 "en_us": "Hey kid, remember to explore the area. You might discover rare items, secret locations, and even new abilities. Also, up ahead, new challenges await you.",
-                "de_de": ".",
+                "de_de": "Hey kid, durchsuche die Gegend. Eventuell wirst du seltene Objekte, geheime Gänge und neue Fähigkeiten entdecken. Schau nach oben, neue Herausforderungen warten auf dich.",
                 "ja_jp": "タロウくん、　この場所を　十分に探った　方が良い。　珍しいものや　隠れ場所から　新しい能力まで　見つけることが　出来る。　これからも、新しい挑戦も　待ってるぞ。",
-		"es_es": "Oye, chico, no te olvides explorar este lugar. Podrás descubrir artículos raros, lugares escondidos, hasta nuevas habilidades. Ademas, mas luego nuevos retos te esperan."
+		        "es_es": "Oye, chico, no te olvides explorar este lugar. Podrás descubrir artículos raros, lugares escondidos, hasta nuevas habilidades. Ademas, mas luego nuevos retos te esperan."
+            }
+        },
+        {
+            "text": {
+                "en_us": "Oh yeah and a rock wall is blocking the cave entrance, so wait a little while here and the help you need will appear.",
+                "de_de": "Oh ja, eine Steinwand blockiert den Eingang zur Höhle. Warte hier etwas und ein Weg wird sich dir zeigen.",
+                "ja_jp":"ちなみに、石の壁が　洞窟の入り口を 遮断しているから もう少し 待ってたら、 助けが現れる かもよ。",
+		        "es_es": "A propósito, hay una pared de piedra impidiendo la entrada de la cueva. Espera por un ratito aquí, y tu ayuda se aparecerá..."
             }
         }
-
     ],
     "foxOut": [
         {
