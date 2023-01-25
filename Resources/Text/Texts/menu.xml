@@ -68,10 +68,10 @@
 	    <es_es>Empezar Demo</es_es>
     </translation>
     <translation id="testLevels">
-        <en_us>Test Levels</en_us>
-        <de_de>Test Levels</de_de>
-        <ja_jp>テストレベル</ja_jp>
-	    <es_es>Test Levels</es_es>
+        <en_us>Start Game</en_us>
+        <de_de>Spiel starten</de_de>
+        <ja_jp>ゲーム開始</ja_jp>
+	    <es_es>Empezar Juego</es_es>
     </translation>
     <translation id="diverse">
         <en_us>Diverse</en_us>
