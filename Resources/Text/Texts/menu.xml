@@ -12,10 +12,10 @@
         <ja_jp>たるタロウ物語</ja_jp>
     </translation>
     <translation id="shareText">
-        <en_us>Play Demo in Browser</en_us>
-        <de_de>Spiele die Demo in deinem Browser</de_de>
+        <en_us>Play Game in Browser</en_us>
+        <de_de>Spiele die Spiel in deinem Browser</de_de>
         <ja_jp>ゲームをブラウザで実行</ja_jp>
-	    <es_es>Probar Demo por el Browser</es_es>
+	    <es_es>Probar Juego por el Browser</es_es>
     </translation>
     <translation id="scrollIconHint">
         <en_us>Swipe red arrows to remove address bar to enter fullscreen mode</en_us>
@@ -62,16 +62,16 @@
     <translation id="startLevel1">
         <!--<en_us>Start Level 1</en_us>
         <de_de>Level 1 starten</de_de>-->
-        <en_us>Start Demo</en_us>
-        <de_de>Demo Starten</de_de>
-        <ja_jp>ゲーム開始</ja_jp>
-	    <es_es>Empezar Demo</es_es>
-    </translation>
-    <translation id="testLevels">
         <en_us>Start Game</en_us>
         <de_de>Spiel starten</de_de>
         <ja_jp>ゲーム開始</ja_jp>
 	    <es_es>Empezar Juego</es_es>
+    </translation>
+    <translation id="testLevels">
+        <en_us>Test Levels</en_us>
+        <de_de>Test Levels</de_de>
+        <ja_jp>テストレベル</ja_jp>
+	    <es_es>Test Levels</es_es>
     </translation>
     <translation id="diverse">
         <en_us>Diverse</en_us>

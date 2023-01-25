@@ -32,10 +32,10 @@
         {
             "character": "Fox",
             "text": {
-                "en_us": "I'm a blind fox named Takumi, and you're here to test out this demo.",
-                "de_de": "Ich bin der blinde Fuchs Takumi und du bist hier um die Demo zu testen.",
+                "en_us": "I'm a blind fox named Takumi, and you're here to play Level one.",
+                "de_de": "Ich bin der blinde Fuchs Takumi und du bist hier um das erste Level zu spielen.",
                 "ja_jp": "オレは目の見えない キツネのタクミだよ。 タロウはこのデモを 試すために居るんだ。",
-		"es_es": "Me llamo Takumi, el ciego zorro. Y estás aquí para probar este demo."
+		"es_es": "Me llamo Takumi, el ciego zorro. Y estás aquí para probar este juego."
             }
         },
 {
@@ -51,7 +51,7 @@
             "character": "Fox",
             "text": {
                 "en_us": "Well... it's much more than that!",
-                "de_de": "Ja. Aber es ist nur eine kurze Demonstration.",
+                "de_de": "Ja. Aber es ist noch viel mehr!",
                 "ja_jp": "ええ。でも、 短いんだ。",
 		        "es_es": "Si, pero será corto."
             }
@@ -84,18 +84,18 @@
                 "en_us": "So, what do I do?",
                 "de_de": "Also, was soll ich machen?",
                 "ja_jp": "じゃあ、ゲームの 仕方は？",
-		"es_es": "¿Cómo puedo probar el demo?"
+		"es_es": "¿Cómo puedo probar el juego?"
             }
         },
         {
             "character": "Fox",
             "text": {
                 "en_us": {
-                    "gamepad": "If you are new to the demo press the start button to access the pause menu.",
-                    "keyboard": "If you are new to the demo press 'P' to access the pause menu.",
-                    "touch": "If you are new to the demo tap on yourself and then the settings icon to access the pause menu."
+                    "gamepad": "If you are new to Taru Taro Legends press the start button to access the pause menu.",
+                    "keyboard": "If you are new to Taru Taro Legends press 'P' to access the pause menu.",
+                    "touch": "If you are new to Taru Taro Legends tap on yourself and then the settings icon to access the pause menu."
                 },
-                "de_de": "Wenn du neu in dieser Demo bist und den Spielekontroller benutzt, drücke den Startknopf und gehe ins Menü. Für Tastatur, drücke 'P' und mit einem Smartphone klicke auf dich selbst und dann auf das Einstellungszeichen.",
+                "de_de": "Wenn du neu in Taru Taro Legends bist und den Spielekontroller benutzt, drücke den Startknopf und gehe ins Menü. Für Tastatur, drücke 'P' und mit einem Smartphone klicke auf dich selbst und dann auf das Einstellungszeichen.",
                 "ja_jp": "ゲームパッドを使う 初めの方はスタート ボタンをおすと、 一時停止メニュへの アクセスができる。 キーボードの場合は (P)をおしスマート フォンを使う方は 画面に現れる君を 直接にタップして (設定)のアイコンも タップするんだ。",
 		        "es_es": "Si es tu primera vez y usas un gamepad, pulsa el botón START para acceder el menú de pausa. Si usas teclado, pulsa ‘P’ y para smartphones, toca a Taro directamente al aparecer en la pantalla táctil y después el ícono de ajustes."
             }
