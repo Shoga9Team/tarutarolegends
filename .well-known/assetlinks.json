@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.tarutarolegends.twa",
+      "sha256_cert_fingerprints": [
+        "12:08:8A:F3:3B:7E:1B:1F:50:D3:C5:50:CD:1B:AE:82:1B:B4:93:02:53:17:B2:2F:1F:7C:59:CB:DC:3E:32:18"
+      ]
+    }
+  }
+]
