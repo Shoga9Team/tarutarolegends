@@ -212,7 +212,9 @@
                 attachOnScroll();
                 sst_showScrollIcon(true);
             }
-        };
+        }
+        // avoid canvas touch img save as
+        document.body.addEventListener('contextmenu', event => event.preventDefault())
     </script>
     <script src="JavaScript/Game.js?20201029"></script>
     <a id="copywright" href="https://shoga9team.com" target="_blank" style="display: none;">2020 ShogaIX Productions. All rights reserved. V. 1.1</a>
